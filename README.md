@@ -1,7 +1,7 @@
-# AUB-RAG-BE\
+# RAG-BE\
 ## First Time Setup Instructions
 
-To set up the AUB-RAG-BE project on another machine, follow these steps:
+To set up the RAG-BE project on another machine, follow these steps:
 
 ### Prerequisites
 
@@ -17,8 +17,8 @@ To set up the AUB-RAG-BE project on another machine, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/AUB-RAG-BE.git
-    cd AUB-RAG-BE
+    git clone https://github.com/yourusername/RAG-BE.git
+    cd RAG-BE
     ```
 
 2. **Create and Activate Virtual Environment**:
@@ -68,11 +68,11 @@ To set up the AUB-RAG-BE project on another machine, follow these steps:
     - Ensure Docker is installed and running on your machine.
     - Build the Docker image using the provided Dockerfile in the codebase:
         ```sh
-        docker build -t aub-rag-be .
+        docker build -t rag-be .
         ```
     - Run the Docker container using the environment variables specified in your `.env` file:
         ```sh
-        docker run -d -p 5000:5000 --name aub-rag-be-container --env-file .env aub-rag-be
+        docker run -d -p 5000:5000 --name rag-be-container --env-file .env rag-be
         ```
     - This will start the application inside a Docker container and map port 5000 of the container to port 5000 on your host machine.
 
