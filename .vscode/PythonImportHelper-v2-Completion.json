@@ -1,0 +1,2139 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "opik",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "opik",
+        "description": "opik",
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "Opik",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "Opik",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "Trace",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "Span",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "configure",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "track",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "flush_tracker",
+        "importPath": "opik",
+        "description": "opik",
+        "isExtraImport": true,
+        "detail": "opik",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatAnthropic",
+        "importPath": "langchain_anthropic",
+        "description": "langchain_anthropic",
+        "isExtraImport": true,
+        "detail": "langchain_anthropic",
+        "documentation": {}
+    },
+    {
+        "label": "ChatAnthropic",
+        "importPath": "langchain_anthropic",
+        "description": "langchain_anthropic",
+        "isExtraImport": true,
+        "detail": "langchain_anthropic",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatDeepSeek",
+        "importPath": "langchain_deepseek",
+        "description": "langchain_deepseek",
+        "isExtraImport": true,
+        "detail": "langchain_deepseek",
+        "documentation": {}
+    },
+    {
+        "label": "ChatDeepSeek",
+        "importPath": "langchain_deepseek",
+        "description": "langchain_deepseek",
+        "isExtraImport": true,
+        "detail": "langchain_deepseek",
+        "documentation": {}
+    },
+    {
+        "label": "get_vectorstore",
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "isExtraImport": true,
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "create_retrieval_chain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_retrieval_chain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_history_aware_retriever",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_stuff_documents_chain",
+        "importPath": "langchain.chains.combine_documents",
+        "description": "langchain.chains.combine_documents",
+        "isExtraImport": true,
+        "detail": "langchain.chains.combine_documents",
+        "documentation": {}
+    },
+    {
+        "label": "create_stuff_documents_chain",
+        "importPath": "langchain.chains.combine_documents",
+        "description": "langchain.chains.combine_documents",
+        "isExtraImport": true,
+        "detail": "langchain.chains.combine_documents",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "importPath": "ragas",
+        "description": "ragas",
+        "isExtraImport": true,
+        "detail": "ragas",
+        "documentation": {}
+    },
+    {
+        "label": "LangchainLLMWrapper",
+        "importPath": "ragas.llms",
+        "description": "ragas.llms",
+        "isExtraImport": true,
+        "detail": "ragas.llms",
+        "documentation": {}
+    },
+    {
+        "label": "ContextUtilization",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "Faithfulness",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerRelevancy",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ContextRecall",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "NoiseSensitivity",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ContextPrecision",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseRelevancy",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ContextEntityRecall",
+        "importPath": "ragas.metrics",
+        "description": "ragas.metrics",
+        "isExtraImport": true,
+        "detail": "ragas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "get_token_usage_for_openai",
+        "importPath": "ragas.cost",
+        "description": "ragas.cost",
+        "isExtraImport": true,
+        "detail": "ragas.cost",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorInfoDict",
+        "importPath": "opik.types",
+        "description": "opik.types",
+        "isExtraImport": true,
+        "detail": "opik.types",
+        "documentation": {}
+    },
+    {
+        "label": "LLMProvider",
+        "importPath": "opik.types",
+        "description": "opik.types",
+        "isExtraImport": true,
+        "detail": "opik.types",
+        "documentation": {}
+    },
+    {
+        "label": "tiktoken",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tiktoken",
+        "description": "tiktoken",
+        "detail": "tiktoken",
+        "documentation": {}
+    },
+    {
+        "label": "tee",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "PyMuPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "CSVLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "UnstructuredWordDocumentLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyMuPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyMuPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownHeaderTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownHeaderTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownHeaderTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_chroma.vectorstores",
+        "description": "langchain_chroma.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_chroma.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_chroma.vectorstores",
+        "description": "langchain_chroma.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_chroma.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_chroma.vectorstores",
+        "description": "langchain_chroma.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_chroma.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_chroma.vectorstores",
+        "description": "langchain_chroma.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_chroma.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "NoResultFound",
+        "importPath": "sqlalchemy.orm.exc",
+        "description": "sqlalchemy.orm.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.exc",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_from_directory",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "LoginManager",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth",
+        "importPath": "authlib.integrations.flask_client",
+        "description": "authlib.integrations.flask_client",
+        "isExtraImport": true,
+        "detail": "authlib.integrations.flask_client",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "set_access_cookies",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "unset_jwt_cookies",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "emit",
+        "importPath": "flask_socketio",
+        "description": "flask_socketio",
+        "isExtraImport": true,
+        "detail": "flask_socketio",
+        "documentation": {}
+    },
+    {
+        "label": "disconnect",
+        "importPath": "flask_socketio",
+        "description": "flask_socketio",
+        "isExtraImport": true,
+        "detail": "flask_socketio",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "rag_chatbot",
+        "description": "rag_chatbot",
+        "isExtraImport": true,
+        "detail": "rag_chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "create_rag_dataset",
+        "kind": 2,
+        "importPath": "evaluation.dataset_manager",
+        "description": "evaluation.dataset_manager",
+        "peekOfCode": "def create_rag_dataset(dataset_name=\"Samsung-LCD-RAG-Questions\"):\n    \"\"\"Create and populate a dataset with RAG test questions.\"\"\"\n    client = Opik(api_key=OPIK_API_KEY)\n    # Get or create the dataset\n    dataset = client.get_or_create_dataset(name=dataset_name)\n    # Example questions - replace with your actual questions\n    questions = [\n  {\n    \"input\": \"What should be done before using the LCD monitor?\",\n    \"expected_output\": \"Read all safety precautions and refer to the Troubleshooting section if a problem occurs.\"",
+        "detail": "evaluation.dataset_manager",
+        "documentation": {}
+    },
+    {
+        "label": "OPIK_API_KEY",
+        "kind": 5,
+        "importPath": "evaluation.dataset_manager",
+        "description": "evaluation.dataset_manager",
+        "peekOfCode": "OPIK_API_KEY = os.getenv(\"OPIK_API_KEY\")\ndef create_rag_dataset(dataset_name=\"Samsung-LCD-RAG-Questions\"):\n    \"\"\"Create and populate a dataset with RAG test questions.\"\"\"\n    client = Opik(api_key=OPIK_API_KEY)\n    # Get or create the dataset\n    dataset = client.get_or_create_dataset(name=dataset_name)\n    # Example questions - replace with your actual questions\n    questions = [\n  {\n    \"input\": \"What should be done before using the LCD monitor?\",",
+        "detail": "evaluation.dataset_manager",
+        "documentation": {}
+    },
+    {
+        "label": "CostTracker",
+        "kind": 6,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "class CostTracker:\n    def __init__(self, model_name=\"gpt-4o-mini\"):\n        self.model_name = model_name\n        self.token_counts = {\n            \"input\": 0,\n            \"output\": 0\n        }\n        self.api_calls = 0\n        # Cost per 1000 tokens (adjust based on current OpenAI pricing)\n        self.cost_rates = {",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "normalize",
+        "kind": 2,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "def normalize(text):\n    if not text:\n        return \"\"\n    text = text.lower()\n    text = re.sub(r'\\s+', ' ', text)\n    text = re.sub(r'[,.!?;:\\(\\)\\[\\]{}]', ' ', text)\n    return text.strip()\nqa_system_prompt = \"\"\"You are Assistant that can answer questions about the context given,         \n        You are an AI agent developed by AI Labs at Aubergine Solutions. Keep responses short and concise use at most 50 words,make sure to include all the information under 50 words, avoid long lists or markdown. Be friendly, helpful, and respectful.\n        You are an AI assistant that answers questions based exclusively on the context fetched from a retriever. You must not use any external knowledge, make assumptions, or attempt to search for additional information. Provide responses only when the context explicitly contains the necessary information. If it does not, respond with not having that information.",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "create_error_info",
+        "kind": 2,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "def create_error_info(e: Exception) -> ErrorInfoDict:\n    \"\"\"Create a properly formatted error_info dict for OPIK.\"\"\"\n    return {\"message\": str(e),\n            \"exception_type\": type(e).__name__,\n            \"traceback\": \"\"\n            }\nclass CostTracker:\n    def __init__(self, model_name=\"gpt-4o-mini\"):\n        self.model_name = model_name\n        self.token_counts = {",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_text_for_bleu",
+        "kind": 2,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "def normalize_text_for_bleu(text):\n    \"\"\"\n    Normalize text to improve BLEU score comparison.\n    Args:\n        text (str): The text to normalize\n    Returns:\n        str: Normalized text\n    \"\"\"\n    if not text:\n        return \"\"",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_rag",
+        "kind": 2,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "def evaluate_rag(dataset_name,input_path=input_file_path, model_name=DEFAULT_MODEL_NAME, experiment_name=None, provider='openai',\n                 project_name=\"AUB-RAG-BE\"):\n    if experiment_name is None:\n        experiment_name = f\"rag-eval-{model_name}-{datetime.now().strftime('%Y%m%d-%H%M%S')}\"\n    # Initialize OPIK client\n    opik_client = Opik()\n    # Initialize cost tracker with gpt-4o-mini model\n    cost_tracker = CostTracker(model_name=model_name)\n    # Start cost tracking\n    cost_tracker.start()",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "count_tokens",
+        "kind": 2,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "def count_tokens(text, model=\"gpt-4\"):\n    \"\"\"Count the number of tokens in a text string using tiktoken.\"\"\"\n    try:\n        encoding = tiktoken.encoding_for_model(model)\n        return len(encoding.encode(text))\n    except Exception:\n        # Fall back to character-based estimation if tiktoken fails\n        return len(text) // 4\nif __name__ == \"__main__\":\n    results = evaluate_rag(",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Input file path - can be changed to any file\ninput_file_path = \"test_set/samsung_led_rag_test_questions.csv\"\nload_dotenv()\nOPIK_API_KEY = os.getenv(\"OPIK_API_KEY\")\nconfigure(api_key=OPIK_API_KEY)\nDEFAULT_MODEL_NAME = \"gpt-4o-mini\"\nPROVIDER_MAPPING = {\n    \"openai\": LLMProvider.OPENAI,\n    \"anthropic\": LLMProvider.ANTHROPIC,",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "input_file_path",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "input_file_path = \"test_set/samsung_led_rag_test_questions.csv\"\nload_dotenv()\nOPIK_API_KEY = os.getenv(\"OPIK_API_KEY\")\nconfigure(api_key=OPIK_API_KEY)\nDEFAULT_MODEL_NAME = \"gpt-4o-mini\"\nPROVIDER_MAPPING = {\n    \"openai\": LLMProvider.OPENAI,\n    \"anthropic\": LLMProvider.ANTHROPIC,\n    \"google\": LLMProvider.GOOGLE_AI,\n    # Add others as needed",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "OPIK_API_KEY",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "OPIK_API_KEY = os.getenv(\"OPIK_API_KEY\")\nconfigure(api_key=OPIK_API_KEY)\nDEFAULT_MODEL_NAME = \"gpt-4o-mini\"\nPROVIDER_MAPPING = {\n    \"openai\": LLMProvider.OPENAI,\n    \"anthropic\": LLMProvider.ANTHROPIC,\n    \"google\": LLMProvider.GOOGLE_AI,\n    # Add others as needed\n}\n# Get vector store",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_MODEL_NAME",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "DEFAULT_MODEL_NAME = \"gpt-4o-mini\"\nPROVIDER_MAPPING = {\n    \"openai\": LLMProvider.OPENAI,\n    \"anthropic\": LLMProvider.ANTHROPIC,\n    \"google\": LLMProvider.GOOGLE_AI,\n    # Add others as needed\n}\n# Get vector store\nvectorstore = get_vectorstore()\nretriever = vectorstore.as_retriever(search_kwargs={\"k\": 5})",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "PROVIDER_MAPPING",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "PROVIDER_MAPPING = {\n    \"openai\": LLMProvider.OPENAI,\n    \"anthropic\": LLMProvider.ANTHROPIC,\n    \"google\": LLMProvider.GOOGLE_AI,\n    # Add others as needed\n}\n# Get vector store\nvectorstore = get_vectorstore()\nretriever = vectorstore.as_retriever(search_kwargs={\"k\": 5})\ndef normalize(text):",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "vectorstore",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "vectorstore = get_vectorstore()\nretriever = vectorstore.as_retriever(search_kwargs={\"k\": 5})\ndef normalize(text):\n    if not text:\n        return \"\"\n    text = text.lower()\n    text = re.sub(r'\\s+', ' ', text)\n    text = re.sub(r'[,.!?;:\\(\\)\\[\\]{}]', ' ', text)\n    return text.strip()\nqa_system_prompt = \"\"\"You are Assistant that can answer questions about the context given,         ",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "retriever = vectorstore.as_retriever(search_kwargs={\"k\": 5})\ndef normalize(text):\n    if not text:\n        return \"\"\n    text = text.lower()\n    text = re.sub(r'\\s+', ' ', text)\n    text = re.sub(r'[,.!?;:\\(\\)\\[\\]{}]', ' ', text)\n    return text.strip()\nqa_system_prompt = \"\"\"You are Assistant that can answer questions about the context given,         \n        You are an AI agent developed by AI Labs at Aubergine Solutions. Keep responses short and concise use at most 50 words,make sure to include all the information under 50 words, avoid long lists or markdown. Be friendly, helpful, and respectful.",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "qa_system_prompt",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "qa_system_prompt = \"\"\"You are Assistant that can answer questions about the context given,         \n        You are an AI agent developed by AI Labs at Aubergine Solutions. Keep responses short and concise use at most 50 words,make sure to include all the information under 50 words, avoid long lists or markdown. Be friendly, helpful, and respectful.\n        You are an AI assistant that answers questions based exclusively on the context fetched from a retriever. You must not use any external knowledge, make assumptions, or attempt to search for additional information. Provide responses only when the context explicitly contains the necessary information. If it does not, respond with not having that information.\n        ## Personality Traits:\n        - Friendly and approachable\n        - Empathetic and emotionally intelligent\n        - Knowledgeable but not pretentious\n        - Patient and helpful\n        ## Always Remember:\n        Ensure responses are helpful, concise, and aligned with the user's intent. Keep responses conversational, concise, and maintain a natural dialogue flow. Be friendly, approachable, and engaging. Adapt personality and responses based on the user's style and context. Do not break persona. Create a seamless, engaging conversation that feels human.generate answers use atmost 50 words.",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "qa_prompt",
+        "kind": 5,
+        "importPath": "evaluation.rag_evaluation",
+        "description": "evaluation.rag_evaluation",
+        "peekOfCode": "qa_prompt = ChatPromptTemplate.from_messages(\n    [\n        (\"system\", qa_system_prompt),\n        (\"human\", \"{input}\"),\n    ]\n)\ndef create_error_info(e: Exception) -> ErrorInfoDict:\n    \"\"\"Create a properly formatted error_info dict for OPIK.\"\"\"\n    return {\"message\": str(e),\n            \"exception_type\": type(e).__name__,",
+        "detail": "evaluation.rag_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "format_chat_history",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.chat",
+        "description": "rag_chatbot.services.chat",
+        "peekOfCode": "def format_chat_history(messages):\n    \"\"\"\n    Convert chat history messages into a formatted string.\n    Args:\n        messages: List of HumanMessage and AIMessage objects.\n    Returns:\n        Formatted chat history as a string.\n    \"\"\"\n    formatted_history = []\n    for msg in messages:",
+        "detail": "rag_chatbot.services.chat",
+        "documentation": {}
+    },
+    {
+        "label": "extract_metadata",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.chat",
+        "description": "rag_chatbot.services.chat",
+        "peekOfCode": "def extract_metadata(doc):\n    \"\"\"\n    Extract and normalize metadata from a document.\n    Args:\n        doc: The document containing metadata.\n    Returns:\n        A dictionary with normalized metadata.\n    \"\"\"\n    metadata = doc.metadata\n    # Extract source with fallbacks",
+        "detail": "rag_chatbot.services.chat",
+        "documentation": {}
+    },
+    {
+        "label": "get_answer",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.chat",
+        "description": "rag_chatbot.services.chat",
+        "peekOfCode": "def get_answer(\n    question: str, \n    responseType: str, \n    chat_history, \n    model_name: str, \n    provider: str = \"openai\",\n    vectorstore_type: str = \"knowledge_base\"\n):\n    \"\"\"\n    Get an answer to a query using the RAG system",
+        "detail": "rag_chatbot.services.chat",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.chat",
+        "description": "rag_chatbot.services.chat",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ncontextualize_q_system_prompt = \"\"\"Given a chat history and the latest user question \\\nwhich might reference context in the chat history, formulate a standalone question \\\nwhich can be understood without the chat history. Do NOT answer the question, \\\njust reformulate it if needed and otherwise return it as is.\"\"\"\ncontextualize_q_prompt = ChatPromptTemplate.from_messages(\n    [\n        (\"system\", contextualize_q_system_prompt),\n        MessagesPlaceholder(\"chat_history\"),\n        (\"human\", \"{input}\"),",
+        "detail": "rag_chatbot.services.chat",
+        "documentation": {}
+    },
+    {
+        "label": "contextualize_q_system_prompt",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.chat",
+        "description": "rag_chatbot.services.chat",
+        "peekOfCode": "contextualize_q_system_prompt = \"\"\"Given a chat history and the latest user question \\\nwhich might reference context in the chat history, formulate a standalone question \\\nwhich can be understood without the chat history. Do NOT answer the question, \\\njust reformulate it if needed and otherwise return it as is.\"\"\"\ncontextualize_q_prompt = ChatPromptTemplate.from_messages(\n    [\n        (\"system\", contextualize_q_system_prompt),\n        MessagesPlaceholder(\"chat_history\"),\n        (\"human\", \"{input}\"),\n    ]",
+        "detail": "rag_chatbot.services.chat",
+        "documentation": {}
+    },
+    {
+        "label": "contextualize_q_prompt",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.chat",
+        "description": "rag_chatbot.services.chat",
+        "peekOfCode": "contextualize_q_prompt = ChatPromptTemplate.from_messages(\n    [\n        (\"system\", contextualize_q_system_prompt),\n        MessagesPlaceholder(\"chat_history\"),\n        (\"human\", \"{input}\"),\n    ]\n)\ndef format_chat_history(messages):\n    \"\"\"\n    Convert chat history messages into a formatted string.",
+        "detail": "rag_chatbot.services.chat",
+        "documentation": {}
+    },
+    {
+        "label": "extract_source_url_from_markdown_section",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.file_processing",
+        "description": "rag_chatbot.services.file_processing",
+        "peekOfCode": "def extract_source_url_from_markdown_section(content):\n    \"\"\"\n    Extract source URL from markdown section content.\n    Args:\n        content (str): The content of a markdown section\n    Returns:\n        str or None: The extracted URL or None if not found\n    \"\"\"\n    # Look for **Source URL:** pattern followed by a URL\n    url_pattern = r'\\*\\*Source URL:\\*\\*\\s*(https?://[^\\s\\n]+)'",
+        "detail": "rag_chatbot.services.file_processing",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_loader",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.file_processing",
+        "description": "rag_chatbot.services.file_processing",
+        "peekOfCode": "def get_document_loader(file_path):\n    if file_path.endswith('.pdf'):\n        return PyMuPDFLoader(file_path)\n    elif file_path.endswith('.txt'):\n        return TextLoader(file_path)\n    elif file_path.endswith('.md') or file_path.endswith('.markdown'):\n        return TextLoader(file_path)\n    elif file_path.endswith('.docx' or '.doc'):\n        return UnstructuredWordDocumentLoader(file_path)\n    elif file_path.endswith('.csv'):",
+        "detail": "rag_chatbot.services.file_processing",
+        "documentation": {}
+    },
+    {
+        "label": "process_file",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.file_processing",
+        "description": "rag_chatbot.services.file_processing",
+        "peekOfCode": "def process_file(file_paths, file_metadata=None):\n    \"\"\"\n    Process files and store them in the vector database\n    Args:\n        file_paths (list): List of file paths to process\n        file_metadata (list, optional): List of metadata dictionaries for each file\n    Returns:\n        list: List of document IDs added to the vector store\n    \"\"\"\n    embeddings = OpenAIEmbeddings(api_key=Config.OPENAI_API_KEY)",
+        "detail": "rag_chatbot.services.file_processing",
+        "documentation": {}
+    },
+    {
+        "label": "process_qa_markdown",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.file_processing",
+        "description": "rag_chatbot.services.file_processing",
+        "peekOfCode": "def process_qa_markdown(file_path, collection_name=None):\n    \"\"\"\n    Process Q&A markdown file with specialized chunking strategy for SONU knowledge base\n    Args:\n        file_path (str): Path to the markdown file\n        collection_name (str, optional): Collection name to store documents in\n    Returns:\n        list: List of document IDs added to the vector store\n    \"\"\"\n    if collection_name is None:",
+        "detail": "rag_chatbot.services.file_processing",
+        "documentation": {}
+    },
+    {
+        "label": "extract_qa_from_section",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.file_processing",
+        "description": "rag_chatbot.services.file_processing",
+        "peekOfCode": "def extract_qa_from_section(content, section_metadata):\n    \"\"\"\n    Extract question-answer pairs from a markdown section\n    Args:\n        content (str): Section content\n        section_metadata (dict): Metadata from the section\n    Returns:\n        list: List of Document objects for Q&A pairs\n    \"\"\"\n    qa_documents = []",
+        "detail": "rag_chatbot.services.file_processing",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.file_processing",
+        "description": "rag_chatbot.services.file_processing",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef get_document_loader(file_path):\n    if file_path.endswith('.pdf'):\n        return PyMuPDFLoader(file_path)\n    elif file_path.endswith('.txt'):\n        return TextLoader(file_path)\n    elif file_path.endswith('.md') or file_path.endswith('.markdown'):\n        return TextLoader(file_path)\n    elif file_path.endswith('.docx' or '.doc'):\n        return UnstructuredWordDocumentLoader(file_path)",
+        "detail": "rag_chatbot.services.file_processing",
+        "documentation": {}
+    },
+    {
+        "label": "load_selected_provider",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.providers",
+        "description": "rag_chatbot.services.providers",
+        "peekOfCode": "def load_selected_provider():\n    \"\"\"Load the selected provider from the database and store it in Redis cache.\"\"\"\n    try:\n        selected_model = AIModel.query.filter_by(is_selected=True).first()\n        if selected_model:\n            provider = Provider.query.get(selected_model.provider_id)\n            if provider:\n                provider_data = {\n                    \"provider\": provider.name,\n                    \"model_name\": selected_model.name,",
+        "detail": "rag_chatbot.services.providers",
+        "documentation": {}
+    },
+    {
+        "label": "get_selected_provider",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.providers",
+        "description": "rag_chatbot.services.providers",
+        "peekOfCode": "def get_selected_provider():\n    \"\"\"Get the cached selected provider from Redis without querying the database.\"\"\"\n    provider_data = cache.get(SELECTED_PROVIDER_CACHE_KEY)\n    # If not in cache, attempt to load from database\n    if provider_data is None:\n        logger.info(\"Provider not found in cache, loading from database\")\n        provider_data = load_selected_provider()\n    return provider_data\ndef update_selected_provider(provider_name, model_name):\n    \"\"\"Update the selected provider in the database and Redis cache.\"\"\"",
+        "detail": "rag_chatbot.services.providers",
+        "documentation": {}
+    },
+    {
+        "label": "update_selected_provider",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.providers",
+        "description": "rag_chatbot.services.providers",
+        "peekOfCode": "def update_selected_provider(provider_name, model_name):\n    \"\"\"Update the selected provider in the database and Redis cache.\"\"\"\n    try:\n        # Find provider and model\n        provider = Provider.query.filter_by(name=provider_name).first()\n        if not provider:\n            raise ValueError(f\"Provider '{provider_name}' not found\")\n        model = AIModel.query.filter_by(name=model_name, provider_id=provider.id).first()\n        if not model:\n            raise ValueError(f\"Model '{model_name}' not found for provider '{provider_name}'\")",
+        "detail": "rag_chatbot.services.providers",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.providers",
+        "description": "rag_chatbot.services.providers",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Cache key for the selected provider\nSELECTED_PROVIDER_CACHE_KEY = 'selected_provider'\ndef load_selected_provider():\n    \"\"\"Load the selected provider from the database and store it in Redis cache.\"\"\"\n    try:\n        selected_model = AIModel.query.filter_by(is_selected=True).first()\n        if selected_model:\n            provider = Provider.query.get(selected_model.provider_id)\n            if provider:",
+        "detail": "rag_chatbot.services.providers",
+        "documentation": {}
+    },
+    {
+        "label": "SELECTED_PROVIDER_CACHE_KEY",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.providers",
+        "description": "rag_chatbot.services.providers",
+        "peekOfCode": "SELECTED_PROVIDER_CACHE_KEY = 'selected_provider'\ndef load_selected_provider():\n    \"\"\"Load the selected provider from the database and store it in Redis cache.\"\"\"\n    try:\n        selected_model = AIModel.query.filter_by(is_selected=True).first()\n        if selected_model:\n            provider = Provider.query.get(selected_model.provider_id)\n            if provider:\n                provider_data = {\n                    \"provider\": provider.name,",
+        "detail": "rag_chatbot.services.providers",
+        "documentation": {}
+    },
+    {
+        "label": "init_redis",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def init_redis() -> redis.Redis:\n    \"\"\"\n    Initialize Redis connection using application configuration\n    Returns:\n        Redis client instance\n    \"\"\"\n    global _redis_client\n    # If Redis client is already initialized, return it\n    if _redis_client is not None:\n        logger.debug(\"Redis client already initialized\")",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis_client",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def get_redis_client() -> Optional[redis.Redis]:\n    \"\"\"\n    Get Redis client instance, initializing it if needed\n    Returns:\n        Redis client instance or None if initialization fails\n    \"\"\"\n    global _redis_client\n    if _redis_client is None:\n        logger.info(\"Redis client not initialized. Initializing now.\")\n        return init_redis()",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "store_chat_history",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def store_chat_history(session_id: str, chat_history: List[Dict[str, Any]]) -> bool:\n    \"\"\"\n    Store chat history in Redis\n    Args:\n        session_id: Unique session ID\n        chat_history: List of chat messages\n    Returns:\n        True if successful, False otherwise\n    \"\"\"\n    client = get_redis_client()",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_chat_history",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def get_chat_history(session_id: str) -> List[Dict[str, Any]]:\n    \"\"\"\n    Get chat history from Redis\n    Args:\n        session_id: Unique session ID\n    Returns:\n        List of chat messages or empty list if not found\n    \"\"\"\n    client = get_redis_client()\n    if not client:",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_chat_history",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def delete_chat_history(session_id: str) -> bool:\n    \"\"\"\n    Delete chat history from Redis\n    Args:\n        session_id: Unique session ID\n    Returns:\n        True if successful, False otherwise\n    \"\"\"\n    client = get_redis_client()\n    if not client:",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "store_vectorstore_type",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def store_vectorstore_type(session_id: str, vectorstore_type: str) -> bool:\n    \"\"\"\n    Store vectorstore type for a session in Redis\n    Args:\n        session_id: Unique session ID\n        vectorstore_type: Type of vectorstore ('knowledge_base' or 'sonu')\n    Returns:\n        True if successful, False otherwise\n    \"\"\"\n    client = get_redis_client()",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_vectorstore_type",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def get_vectorstore_type(session_id: str, default: str = \"knowledge_base\") -> str:\n    \"\"\"\n    Get vectorstore type for a session from Redis\n    Args:\n        session_id: Unique session ID\n        default: Default vectorstore type if not found\n    Returns:\n        Vectorstore type as string\n    \"\"\"\n    client = get_redis_client()",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_vectorstore_type",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "def delete_vectorstore_type(session_id: str) -> bool:\n    \"\"\"\n    Delete vectorstore type for a session from Redis\n    Args:\n        session_id: Unique session ID\n    Returns:\n        True if successful, False otherwise\n    \"\"\"\n    client = get_redis_client()\n    if not client:",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Redis connection singleton\n_redis_client = None\ndef init_redis() -> redis.Redis:\n    \"\"\"\n    Initialize Redis connection using application configuration\n    Returns:\n        Redis client instance\n    \"\"\"\n    global _redis_client",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "_redis_client",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.redis_service",
+        "description": "rag_chatbot.services.redis_service",
+        "peekOfCode": "_redis_client = None\ndef init_redis() -> redis.Redis:\n    \"\"\"\n    Initialize Redis connection using application configuration\n    Returns:\n        Redis client instance\n    \"\"\"\n    global _redis_client\n    # If Redis client is already initialized, return it\n    if _redis_client is not None:",
+        "detail": "rag_chatbot.services.redis_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_vectorstore",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "peekOfCode": "def get_vectorstore(collection_name=None):\n    \"\"\"\n    Get or initialize the vector store\n    Args:\n        collection_name: The name of the collection to use. If None, uses default Samsung collection.\n    Returns:\n        Chroma: The vector store instance\n    \"\"\"\n    global vectorstore_instances\n    # Determine collection name",
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "get_vectorstore_by_type",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "peekOfCode": "def get_vectorstore_by_type(vectorstore_type=\"knowledge_base\"):\n    \"\"\"\n    Get vectorstore by type (knowledge_base, samsung, or sonu)\n    Args:\n        vectorstore_type: Either \"knowledge_base\", \"samsung\", or \"sonu\"\n    Returns:\n        Chroma: The vector store instance\n    \"\"\"\n    if vectorstore_type.lower() == \"sonu\":\n        return get_vectorstore(Config.SONU_COLLECTION)",
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "reset_vectorstore",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "peekOfCode": "def reset_vectorstore(collection_name=None):\n    \"\"\"\n    Reset the global vectorstore instance(s)\n    Args:\n        collection_name: If provided, reset only that collection. If None, reset all.\n    \"\"\"\n    global vectorstore_instances\n    if collection_name:\n        if collection_name in vectorstore_instances:\n            del vectorstore_instances[collection_name]",
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_sonu_collection_exists",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "peekOfCode": "def ensure_sonu_collection_exists():\n    \"\"\"\n    Ensures that the 'sonu' collection exists in the vectorstore.\n    If it doesn't exist, creates it and populates it with data from Qsv1.txt.\n    This function is designed to be called on application startup to handle\n    production deployments where the 'sonu' collection might not exist.\n    Returns:\n        bool: True if collection exists or was successfully created, False otherwise\n    \"\"\"\n    global vectorstore_instances",
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "check_collection_exists",
+        "kind": 2,
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "peekOfCode": "def check_collection_exists(collection_name):\n    \"\"\"\n    Check if a specific collection exists and has documents.\n    Args:\n        collection_name: Name of the collection to check\n    Returns:\n        dict: Status information about the collection\n    \"\"\"\n    try:\n        # Get API key",
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "vectorstore_instances",
+        "kind": 5,
+        "importPath": "rag_chatbot.services.vectorstore",
+        "description": "rag_chatbot.services.vectorstore",
+        "peekOfCode": "vectorstore_instances = {}\ndef get_vectorstore(collection_name=None):\n    \"\"\"\n    Get or initialize the vector store\n    Args:\n        collection_name: The name of the collection to use. If None, uses default Samsung collection.\n    Returns:\n        Chroma: The vector store instance\n    \"\"\"\n    global vectorstore_instances",
+        "detail": "rag_chatbot.services.vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "get_uploaded_files",
+        "kind": 2,
+        "importPath": "rag_chatbot.utils.helpers",
+        "description": "rag_chatbot.utils.helpers",
+        "peekOfCode": "def get_uploaded_files():\n    \"\"\"\n    Get a list of all files in the upload folder\n    Returns:\n        list: List of filenames in the upload folder\n    \"\"\"\n    upload_folder = Config.UPLOAD_FOLDER\n    if not os.path.exists(upload_folder):\n        return []\n    return os.listdir(upload_folder)",
+        "detail": "rag_chatbot.utils.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "format_file_size",
+        "kind": 2,
+        "importPath": "rag_chatbot.utils.helpers",
+        "description": "rag_chatbot.utils.helpers",
+        "peekOfCode": "def format_file_size(size_in_bytes):\n    \"\"\"\n    Format file size in human-readable format\n    Args:\n        size_in_bytes (int): File size in bytes\n    Returns:\n        str: Formatted file size\n    \"\"\"\n    # Convert to KB, MB, GB as appropriate\n    if size_in_bytes < 1024:",
+        "detail": "rag_chatbot.utils.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "is_token_revoked",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def is_token_revoked(decoded_jwt):\n    \"\"\"Check if the token is in the blocklist.\"\"\"\n    return decoded_jwt[\"jti\"] in TOKEN_BLOCKLIST\n@jwt_manager.token_in_blocklist_loader\ndef check_if_token_in_blocklist(jwt_header, jwt_payload):\n    \"\"\"JWT Extended method to verify if a token is revoked.\"\"\"\n    jti = jwt_payload.get(\"jti\")\n    if jti in TOKEN_BLOCKLIST:\n        logger.info(f\"Token with JTI {jti} is blacklisted.\")\n        return True",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "check_if_token_in_blocklist",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def check_if_token_in_blocklist(jwt_header, jwt_payload):\n    \"\"\"JWT Extended method to verify if a token is revoked.\"\"\"\n    jti = jwt_payload.get(\"jti\")\n    if jti in TOKEN_BLOCKLIST:\n        logger.info(f\"Token with JTI {jti} is blacklisted.\")\n        return True\n    return False\n@login_manager.user_loader\ndef load_user(user_id):\n    \"\"\"Load user by ID for Flask-Login\"\"\"",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "load_user",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def load_user(user_id):\n    \"\"\"Load user by ID for Flask-Login\"\"\"\n    return User.query.get(int(user_id))\n@auth_bp.route(\"/login\", methods=[\"POST\"])\ndef login():\n    data = request.get_json()\n    token_id = data.get(\"user_google_token\")\n    try:\n        headers = {\n            \"Authorization\": f\"Bearer {token_id}\",",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def login():\n    data = request.get_json()\n    token_id = data.get(\"user_google_token\")\n    try:\n        headers = {\n            \"Authorization\": f\"Bearer {token_id}\",\n        }\n        response = requests.get(Config.VERIFY_USER_URL, headers=headers)\n        if response.status_code != 200:\n            return jsonify({\"error\": \"Failed to verify token with Google\"}), 401",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def logout():\n    jti = get_jwt()[\"jti\"]  # Get token identifier\n    TOKEN_BLOCKLIST.add(jti)  # Add token to blocklist\n    logger.info(f\"jti: {jti}\")\n    response = jsonify({\"message\": \"Logged out successfully\"})\n    unset_jwt_cookies(response)\n    return response\n@auth_bp.route(\"/refresh\", methods=[\"POST\"])\n@jwt_required(refresh=True)\ndef refresh():",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "refresh",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def refresh():\n    \"\"\"Refresh the JWT access token.\"\"\"\n    user_id = get_jwt_identity()\n    new_access_token = create_access_token(identity=str(user_id), fresh=False)\n    return jsonify({\"access_token\": new_access_token})\n@auth_bp.route(\"/protected\", methods=[\"GET\"])\n@jwt_required()\ndef protected():\n    \"\"\"Example of a protected route requiring JWT.\"\"\"\n    user_id = get_jwt_identity()",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "protected",
+        "kind": 2,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "def protected():\n    \"\"\"Example of a protected route requiring JWT.\"\"\"\n    user_id = get_jwt_identity()\n    return jsonify({\"message\": f\"Hello User {user_id}, you are authenticated!\"})",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Create Blueprint\nauth_bp = Blueprint('auth', __name__)\n# Initialize login manager\nlogin_manager = LoginManager()\nlogin_manager.login_view = 'auth.login'\noauth = OAuth()\njwt_manager = JWTManager()\ngoogle = oauth.register(\n    \"google\",",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "auth_bp = Blueprint('auth', __name__)\n# Initialize login manager\nlogin_manager = LoginManager()\nlogin_manager.login_view = 'auth.login'\noauth = OAuth()\njwt_manager = JWTManager()\ngoogle = oauth.register(\n    \"google\",\n    client_id=Config.GOOGLE_CLIENT_ID,\n    client_secret=Config.GOOGLE_CLIENT_SECRET,",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_manager",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "login_manager = LoginManager()\nlogin_manager.login_view = 'auth.login'\noauth = OAuth()\njwt_manager = JWTManager()\ngoogle = oauth.register(\n    \"google\",\n    client_id=Config.GOOGLE_CLIENT_ID,\n    client_secret=Config.GOOGLE_CLIENT_SECRET,\n    authorize_url=\"https://accounts.google.com/o/oauth2/auth\",\n    access_token_url=\"https://oauth2.googleapis.com/token\",",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_manager.login_view",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "login_manager.login_view = 'auth.login'\noauth = OAuth()\njwt_manager = JWTManager()\ngoogle = oauth.register(\n    \"google\",\n    client_id=Config.GOOGLE_CLIENT_ID,\n    client_secret=Config.GOOGLE_CLIENT_SECRET,\n    authorize_url=\"https://accounts.google.com/o/oauth2/auth\",\n    access_token_url=\"https://oauth2.googleapis.com/token\",\n    client_kwargs={\"scope\": \"openid email profile\"},",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "oauth",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "oauth = OAuth()\njwt_manager = JWTManager()\ngoogle = oauth.register(\n    \"google\",\n    client_id=Config.GOOGLE_CLIENT_ID,\n    client_secret=Config.GOOGLE_CLIENT_SECRET,\n    authorize_url=\"https://accounts.google.com/o/oauth2/auth\",\n    access_token_url=\"https://oauth2.googleapis.com/token\",\n    client_kwargs={\"scope\": \"openid email profile\"},\n)",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_manager",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "jwt_manager = JWTManager()\ngoogle = oauth.register(\n    \"google\",\n    client_id=Config.GOOGLE_CLIENT_ID,\n    client_secret=Config.GOOGLE_CLIENT_SECRET,\n    authorize_url=\"https://accounts.google.com/o/oauth2/auth\",\n    access_token_url=\"https://oauth2.googleapis.com/token\",\n    client_kwargs={\"scope\": \"openid email profile\"},\n)\nTOKEN_BLOCKLIST = set()",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "google",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "google = oauth.register(\n    \"google\",\n    client_id=Config.GOOGLE_CLIENT_ID,\n    client_secret=Config.GOOGLE_CLIENT_SECRET,\n    authorize_url=\"https://accounts.google.com/o/oauth2/auth\",\n    access_token_url=\"https://oauth2.googleapis.com/token\",\n    client_kwargs={\"scope\": \"openid email profile\"},\n)\nTOKEN_BLOCKLIST = set()\ndef is_token_revoked(decoded_jwt):",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TOKEN_BLOCKLIST",
+        "kind": 5,
+        "importPath": "rag_chatbot.auth",
+        "description": "rag_chatbot.auth",
+        "peekOfCode": "TOKEN_BLOCKLIST = set()\ndef is_token_revoked(decoded_jwt):\n    \"\"\"Check if the token is in the blocklist.\"\"\"\n    return decoded_jwt[\"jti\"] in TOKEN_BLOCKLIST\n@jwt_manager.token_in_blocklist_loader\ndef check_if_token_in_blocklist(jwt_header, jwt_payload):\n    \"\"\"JWT Extended method to verify if a token is revoked.\"\"\"\n    jti = jwt_payload.get(\"jti\")\n    if jti in TOKEN_BLOCKLIST:\n        logger.info(f\"Token with JTI {jti} is blacklisted.\")",
+        "detail": "rag_chatbot.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "rag_chatbot.config",
+        "description": "rag_chatbot.config",
+        "peekOfCode": "class Config:\n    load_dotenv()\n    # API Keys\n    OPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\n    # File storage settings\n    UPLOAD_FOLDER = os.path.abspath(\"./uploads\")\n    MAX_FILE_SIZE = 20 * 1024 * 1024  # 20 MB max file size (per file)\n    ALLOWED_EXTENSIONS = {'pdf', 'txt', 'csv', 'docx', 'doc', 'zip', 'md', 'markdown'}\n    # Vector database settings\n    VECTORSTORE_PATH = os.path.abspath(\"./chroma_db\")",
+        "detail": "rag_chatbot.config",
+        "documentation": {}
+    },
+    {
+        "label": "mask_sensitive_string",
+        "kind": 2,
+        "importPath": "rag_chatbot.config",
+        "description": "rag_chatbot.config",
+        "peekOfCode": "def mask_sensitive_string(text, visible_chars=4):\n    \"\"\"\n    Masks a sensitive string, showing only the first few characters.\n    Args:\n        text (str): The string to mask\n        visible_chars (int): Number of characters to leave visible\n    Returns:\n        str: Masked string or indication of absence\n    \"\"\"\n    if not text:",
+        "detail": "rag_chatbot.config",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.config",
+        "description": "rag_chatbot.config",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef mask_sensitive_string(text, visible_chars=4):\n    \"\"\"\n    Masks a sensitive string, showing only the first few characters.\n    Args:\n        text (str): The string to mask\n        visible_chars (int): Number of characters to leave visible\n    Returns:\n        str: Masked string or indication of absence\n    \"\"\"",
+        "detail": "rag_chatbot.config",
+        "documentation": {}
+    },
+    {
+        "label": "session_scope",
+        "kind": 2,
+        "importPath": "rag_chatbot.db_utils",
+        "description": "rag_chatbot.db_utils",
+        "peekOfCode": "def session_scope():\n    \"\"\"\n    Provide a transactional scope around a series of operations.\n    This context manager ensures that:\n    1. The session is properly managed\n    2. Exceptions are properly caught and logged\n    3. The session is always properly closed or rolled back\n    4. Application context is properly checked\n    Usage:\n        with session_scope() as session:",
+        "detail": "rag_chatbot.db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.db_utils",
+        "description": "rag_chatbot.db_utils",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@contextmanager\ndef session_scope():\n    \"\"\"\n    Provide a transactional scope around a series of operations.\n    This context manager ensures that:\n    1. The session is properly managed\n    2. Exceptions are properly caught and logged\n    3. The session is always properly closed or rolled back\n    4. Application context is properly checked",
+        "detail": "rag_chatbot.db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "rag_chatbot.models",
+        "description": "rag_chatbot.models",
+        "peekOfCode": "class User(db.Model, UserMixin):\n    \"\"\"User model for authentication and session management\"\"\"\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(255), unique=True, nullable=False)\n    name = db.Column(db.String(255), nullable=True)\n    profile_pic = db.Column(db.String(255), nullable=True)\n    is_active = db.Column(db.Boolean, default=True)\n    created_at = db.Column(db.DateTime, default=lambda: datetime.datetime.now(datetime.timezone.utc))\n    last_login = db.Column(db.DateTime, nullable=True)",
+        "detail": "rag_chatbot.models",
+        "documentation": {}
+    },
+    {
+        "label": "Provider",
+        "kind": 6,
+        "importPath": "rag_chatbot.models",
+        "description": "rag_chatbot.models",
+        "peekOfCode": "class Provider(db.Model):\n    __tablename__ = 'providers'\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(50), nullable=False, unique=True)\n    models = db.relationship('AIModel', backref='provider', lazy=True, cascade=\"all, delete-orphan\")\n    def __repr__(self):\n        return f'<Provider {self.name}>'\n    def to_dict(self):\n        \"\"\"Convert provider object to dictionary\"\"\"\n        return {",
+        "detail": "rag_chatbot.models",
+        "documentation": {}
+    },
+    {
+        "label": "AIModel",
+        "kind": 6,
+        "importPath": "rag_chatbot.models",
+        "description": "rag_chatbot.models",
+        "peekOfCode": "class AIModel(db.Model):\n    __tablename__ = 'ai_models'\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(100), nullable=False)\n    provider_id = db.Column(db.Integer, db.ForeignKey('providers.id'), nullable=False)\n    is_selected = db.Column(db.Boolean, default=False, nullable=False)\n    def __repr__(self):\n        return f'<AIModel {self.name} ({self.provider.name})>'\n    def to_dict(self):\n        \"\"\"Convert model object to dictionary\"\"\"",
+        "detail": "rag_chatbot.models",
+        "documentation": {}
+    },
+    {
+        "label": "FeedbackType",
+        "kind": 6,
+        "importPath": "rag_chatbot.models",
+        "description": "rag_chatbot.models",
+        "peekOfCode": "class FeedbackType(enum.Enum):\n    \"\"\"Enum for different types of feedback\"\"\"\n    POSITIVE = \"positive\"\n    NEGATIVE = \"negative\"\nclass Feedback(db.Model):\n    \"\"\"Model for storing user feedback on chat responses\"\"\"\n    __tablename__ = 'feedback'\n    id = db.Column(db.Integer, primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=True)\n    user_query = db.Column(db.Text, nullable=False)",
+        "detail": "rag_chatbot.models",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "kind": 6,
+        "importPath": "rag_chatbot.models",
+        "description": "rag_chatbot.models",
+        "peekOfCode": "class Feedback(db.Model):\n    \"\"\"Model for storing user feedback on chat responses\"\"\"\n    __tablename__ = 'feedback'\n    id = db.Column(db.Integer, primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=True)\n    user_query = db.Column(db.Text, nullable=False)\n    assistant_response = db.Column(db.Text, nullable=False)\n    feedback_type = db.Column(db.Enum(FeedbackType), nullable=False)\n    feedback_text = db.Column(db.Text, nullable=True)  # Optional text feedback, required for negative feedback\n    created_at = db.Column(db.DateTime, default=lambda: datetime.datetime.now(datetime.timezone.utc))",
+        "detail": "rag_chatbot.models",
+        "documentation": {}
+    },
+    {
+        "label": "insert_default_data",
+        "kind": 2,
+        "importPath": "rag_chatbot.models",
+        "description": "rag_chatbot.models",
+        "peekOfCode": "def insert_default_data():\n    # Check if the Provider table is empty\n    logger = logging.getLogger(__name__)\n    try:\n        # Check if the Provider table is empty\n        if not Provider.query.first():\n            logger.info(\"Initializing database with default providers and models\")\n            # Define default providers\n            default_providers = [\n                Provider(name='OpenAI'),",
+        "detail": "rag_chatbot.models",
+        "documentation": {}
+    },
+    {
+        "label": "upload_file",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def upload_file():\n    if 'file' not in request.files:\n        return jsonify({\"error\": \"No file part\"}), 400\n    files = request.files.getlist('file')\n    if files[0].filename == '':\n        return jsonify({\"error\": \"No selected file\"}), 400\n    # Use allowed extensions from Config\n    allowed_extensions = Config.ALLOWED_EXTENSIONS\n    max_file_size = Config.MAX_FILE_SIZE\n    def allowed_file(filename):",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "process_extracted_file",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def process_extracted_file(file_path, uploaded_files, file_metadata):\n    # Determine the file extension\n    file_extension = file_path.rsplit('.', 1)[1].lower() if '.' in file_path else ''\n    # Check if the file is of an allowed type\n    if file_extension in Config.ALLOWED_EXTENSIONS and file_extension != 'zip':\n        # Generate a unique filename\n        base_name = os.path.basename(file_path).rsplit('.', 1)[0]\n        unique_id = uuid.uuid4().hex[:8]\n        unique_filename = f\"{base_name}_{unique_id}.{file_extension}\"\n        # Move the file to the upload directory",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "list_files",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def list_files():\n    \"\"\"\n    API to list all uploaded files with metadata\n    Query Parameters:\n    - vectorstore_type: 'knowledge_base' (default) or 'sonu'\n                       When 'sonu', includes files from sonu_resources directory\n    \"\"\"\n    try:\n        # Get vectorstore type from query parameter (defaults to knowledge_base)\n        vectorstore_type = request.args.get(\"vectorstore_type\", \"knowledge_base\").lower()",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_file",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def get_file(filename):\n    \"\"\"\n    API to download or open an uploaded file with metadata\n    Query Parameters:\n    - metadata: 'true' to return only metadata, otherwise returns file content\n    - vectorstore_type: 'knowledge_base' (default) or 'sonu'\n                       When 'sonu', also searches sonu_resources directory\n    \"\"\"\n    upload_folder = os.path.abspath(Config.UPLOAD_FOLDER)\n    sonu_resources_folder = os.path.abspath(\"./sonu_resources\")",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_file",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def delete_file():\n    \"\"\"API to delete a file and its embeddings\"\"\"\n    try:\n        filenames = request.json.get(\"filenames\", [])\n        if not filenames:\n            return jsonify({\"error\": \"No filenames provided for deletion\"}), 400\n        upload_folder = os.path.abspath(Config.UPLOAD_FOLDER)\n        results = {\"deleted\": 0, \"not_found\": 0, \"errors\": 0}\n        vectorstore = get_vectorstore()\n        if not vectorstore:",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "list_providers",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def list_providers():\n    with session_scope() as session:\n            try:\n                # First, get all providers\n                providers = Provider.query.all()\n                result = []\n                # For each provider, get its models and structure the response\n                for provider in providers:\n                    provider_data = {\n                        \"provider_id\": provider.id,",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "add_provider",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def add_provider():\n    data = request.json\n    added_entries = []\n    skipped_entries = []\n    try:\n        with session_scope() as session:\n            for entry in data:\n                provider_name = entry['provider']\n                model_name = entry['model_name']\n                # First, find or create the provider",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_model",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def delete_model(model_id: int):\n    \"\"\"\n    Delete an AI model by its ID and handle related cleanup operations.\n    This endpoint deletes a model and performs cleanup operations including:\n    1. Checking if the model was selected and selecting another one if needed\n    2. Deleting the parent provider if this was its last model\n    3. Updating the provider cache if necessary\n    \"\"\"\n    try:\n        with session_scope() as session:",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_provider",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def delete_provider(provider_id: int):\n    \"\"\"\n    Delete a provider and all its associated models.\n    This endpoint deletes a provider and all its models, leveraging the cascade\n    relationship. If one of the deleted models was selected, it automatically\n    selects another model from a different provider.\n    \"\"\"\n    try:\n        with session_scope() as session:\n            provider = Provider.query.get(provider_id)",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "select_model",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def select_model(model_id: int):\n    try:\n        with session_scope() as session:\n            # Find model using get_or_404\n            model = AIModel.query.get_or_404(model_id)\n            # Get provider object\n            provider = Provider.query.get(model.provider_id)\n            if not provider:\n                return jsonify({\"message\": \"Provider not found for this model\"}), 500\n            # Get model and provider names as strings",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_selected_model",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def get_selected_model():\n    try:\n        # Try to get from the service cache first\n        cached_provider = get_selected_provider()\n        if cached_provider:\n            return jsonify({\n                \"provider\": cached_provider[\"provider\"],\n                \"model_name\": cached_provider[\"model_name\"],\n                \"provider_id\": cached_provider.get(\"provider_id\"),\n                \"model_id\": cached_provider.get(\"model_id\")",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_feedback_stats",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def get_feedback_stats():\n    \"\"\"\n    API endpoint to get statistics about the feedback.\n    Query parameters:\n    - user_id: Filter stats by user ID (optional)\n    - start_date: Filter by created_at >= start_date (format: YYYY-MM-DD) (optional)\n    - end_date: Filter by created_at <= end_date (format: YYYY-MM-DD) (optional)\n    Returns:\n    - Total count\n    - Positive feedback count",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "submit_feedback",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def submit_feedback():\n    \"\"\"\n    API endpoint to submit feedback for a chat response.\n    Accepts:\n    - user_query: The original user query (required)\n    - assistant_response: The assistant's response (required)\n    - feedback_type: String value ('positive' or 'negative') (required)\n    - feedback_text: Text feedback explaining why (required for negative feedback only)\n    - model_name: Name of the model that generated the response (optional)\n    - provider: Name of the provider (e.g., \"OpenAI\") (optional)",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_feedback",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def get_feedback():\n    \"\"\"\n    API endpoint to retrieve feedback entries.\n    Query parameters:\n    - limit: Maximum number of entries to return (default: 100)\n    - offset: Offset for pagination (default: 0)\n    - feedback_type: Filter by feedback_type value (optional, 'positive' or 'negative')\n      If not provided, returns all feedback types\n    - user_id: Filter by user ID (optional, admin only)\n    - start_date: Filter by created_at >= start_date (format: YYYY-MM-DD) (optional)",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "bulk_delete_feedback",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def bulk_delete_feedback():\n    \"\"\"\n    API endpoint to delete multiple feedback entries by their IDs.\n    Uses DELETE method with JSON body containing the IDs to delete.\n    Any authenticated user can delete any feedback entries.\n    Required fields:\n    - feedback_ids: List of feedback IDs to delete\n    Returns:\n    - Counts of deleted, not found, and error entries\n    - HTTP 200 on success, 400 on validation error, 500 on server error",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "set_vectorstore_type",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def set_vectorstore_type():\n    \"\"\"\n    API endpoint to set the vectorstore type for the current session.\n    Expected JSON payload:\n    {\n        \"vectorstore_type\": \"knowledge_base\" | \"sonu\"\n    }\n    Returns:\n    - Success message with the set vectorstore type\n    \"\"\"",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_vectorstore_type",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def get_vectorstore_type():\n    \"\"\"\n    API endpoint to get the current vectorstore type.\n    Returns:\n    - Current vectorstore type (defaults to 'knowledge_base')\n    \"\"\"\n    try:\n        # For now, return the default\n        # In a more sophisticated setup, you might retrieve this from session/cache\n        vectorstore_type = \"knowledge_base\"  # Default",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_feedback_detail",
+        "kind": 2,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "def get_feedback_detail(feedback_id):\n    \"\"\"\n    API endpoint to retrieve details of a specific feedback entry.\n    Returns:\n    - Detailed feedback information\n    \"\"\"\n    try:\n        # Get the feedback entry\n        feedback = Feedback.query.get(feedback_id)\n        if not feedback:",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 5,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "main = Blueprint(\"main\", __name__)\nlogging.basicConfig(level=logging.INFO)\nlogger = logging.getLogger(__name__)\n@main.route(\"/upload\", methods=[\"POST\"])\n@jwt_required()\ndef upload_file():\n    if 'file' not in request.files:\n        return jsonify({\"error\": \"No file part\"}), 400\n    files = request.files.getlist('file')\n    if files[0].filename == '':",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.routes",
+        "description": "rag_chatbot.routes",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@main.route(\"/upload\", methods=[\"POST\"])\n@jwt_required()\ndef upload_file():\n    if 'file' not in request.files:\n        return jsonify({\"error\": \"No file part\"}), 400\n    files = request.files.getlist('file')\n    if files[0].filename == '':\n        return jsonify({\"error\": \"No selected file\"}), 400\n    # Use allowed extensions from Config",
+        "detail": "rag_chatbot.routes",
+        "documentation": {}
+    },
+    {
+        "label": "configure_websocket",
+        "kind": 2,
+        "importPath": "rag_chatbot.websocket",
+        "description": "rag_chatbot.websocket",
+        "peekOfCode": "def configure_websocket(socketio):\n    # Initialize Redis connection\n    init_redis()\n    @socketio.on('connect', namespace='/chat')\n    def handle_connect():\n        \"\"\"\n        Handle the connect event\n        Generate a unique session ID and store it for the socket connection\n        \"\"\"\n        session_id = str(uuid.uuid4())",
+        "detail": "rag_chatbot.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "get_chat_history_by_socket_id",
+        "kind": 2,
+        "importPath": "rag_chatbot.websocket",
+        "description": "rag_chatbot.websocket",
+        "peekOfCode": "def get_chat_history_by_socket_id(socket_id: str, limit: int = 5):\n    \"\"\"\n    Get chat history for a given socket ID, limited to the previous N user-response pairs,\n    excluding the current query and its response.\n    Args:\n        socket_id: The WebSocket connection ID\n        limit: Number of user-response pairs to return (default: 5, resulting in 10 total messages)\n    Returns:\n        List of chat messages (excluding the current query and response) or empty list if not found\n    \"\"\"",
+        "detail": "rag_chatbot.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "rag_chatbot.websocket",
+        "description": "rag_chatbot.websocket",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Dictionary to map socket IDs to session IDs\n# Moved outside the function to be globally accessible\nsocket_sessions = {}\ndef configure_websocket(socketio):\n    # Initialize Redis connection\n    init_redis()\n    @socketio.on('connect', namespace='/chat')\n    def handle_connect():\n        \"\"\"",
+        "detail": "rag_chatbot.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "socket_sessions",
+        "kind": 5,
+        "importPath": "rag_chatbot.websocket",
+        "description": "rag_chatbot.websocket",
+        "peekOfCode": "socket_sessions = {}\ndef configure_websocket(socketio):\n    # Initialize Redis connection\n    init_redis()\n    @socketio.on('connect', namespace='/chat')\n    def handle_connect():\n        \"\"\"\n        Handle the connect event\n        Generate a unique session ID and store it for the socket connection\n        \"\"\"",
+        "detail": "rag_chatbot.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "DockerSafeSonuCollectionCreator",
+        "kind": 6,
+        "importPath": "create_sonu_qa_v3_docker_safe",
+        "description": "create_sonu_qa_v3_docker_safe",
+        "peekOfCode": "class DockerSafeSonuCollectionCreator:\n    \"\"\"Docker-safe version that avoids filesystem operations on mounted volumes\"\"\"\n    def __init__(self):\n        \"\"\"Initialize the creator with Docker-safe configuration\"\"\"\n        self.project_root = Path(__file__).parent\n        self.sonu_resources_dir = self.project_root / \"sonu_resources\"\n        self.vectorstore_path = self.project_root / \"chroma_db\"\n        self.openai_api_key = os.getenv(\"OPENAI_API_KEY\")\n        # Use timestamped collection name to avoid conflicts\n        timestamp = datetime.now().strftime(\"%Y%m%d_%H%M%S\")",
+        "detail": "create_sonu_qa_v3_docker_safe",
+        "documentation": {}
+    },
+    {
+        "label": "extract_source_url_from_markdown_section",
+        "kind": 2,
+        "importPath": "create_sonu_qa_v3_docker_safe",
+        "description": "create_sonu_qa_v3_docker_safe",
+        "peekOfCode": "def extract_source_url_from_markdown_section(content):\n    \"\"\"Extract source URL from markdown section content.\"\"\"\n    url_pattern = r'\\*\\*Source URL:\\*\\*\\s*(https?://[^\\s\\n]+)'\n    url_match = re.search(url_pattern, content)\n    if url_match:\n        return url_match.group(1)\n    return None\ndef generate_fallback_source_url(content, file_name):\n    \"\"\"Generate a fallback source_url based on content analysis or filename.\"\"\"\n    content_lower = content.lower()",
+        "detail": "create_sonu_qa_v3_docker_safe",
+        "documentation": {}
+    },
+    {
+        "label": "generate_fallback_source_url",
+        "kind": 2,
+        "importPath": "create_sonu_qa_v3_docker_safe",
+        "description": "create_sonu_qa_v3_docker_safe",
+        "peekOfCode": "def generate_fallback_source_url(content, file_name):\n    \"\"\"Generate a fallback source_url based on content analysis or filename.\"\"\"\n    content_lower = content.lower()\n    if \"sonucheck\" in content_lower or \"sonu check\" in content_lower:\n        return \"https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health\"\n    elif \"sonucast\" in content_lower or \"sonu cast\" in content_lower:\n        return \"https://soundhealth.life/blogs/science/sonucast-allergy-forecast\"\n    elif \"acoustic resonance therapy\" in content_lower:\n        return \"https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy\"\n    elif \"sonu band\" in content_lower:",
+        "detail": "create_sonu_qa_v3_docker_safe",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "create_sonu_qa_v3_docker_safe",
+        "description": "create_sonu_qa_v3_docker_safe",
+        "peekOfCode": "def main():\n    \"\"\"Main execution function\"\"\"\n    try:\n        logger.info(\"🐳 Starting Docker-safe SONU QA collection creation...\")\n        # Initialize creator\n        creator = DockerSafeSonuCollectionCreator()\n        # Process all content files\n        creator.process_all_content()\n        # Check processing results\n        total_files = len(creator.get_content_files())",
+        "detail": "create_sonu_qa_v3_docker_safe",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "create_sonu_qa_v3_docker_safe",
+        "description": "create_sonu_qa_v3_docker_safe",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef extract_source_url_from_markdown_section(content):\n    \"\"\"Extract source URL from markdown section content.\"\"\"\n    url_pattern = r'\\*\\*Source URL:\\*\\*\\s*(https?://[^\\s\\n]+)'\n    url_match = re.search(url_pattern, content)\n    if url_match:\n        return url_match.group(1)\n    return None\ndef generate_fallback_source_url(content, file_name):\n    \"\"\"Generate a fallback source_url based on content analysis or filename.\"\"\"",
+        "detail": "create_sonu_qa_v3_docker_safe",
+        "documentation": {}
+    },
+    {
+        "label": "check_docker_running",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def check_docker_running():\n    \"\"\"Check if Docker is running\"\"\"\n    try:\n        result = subprocess.run(['docker', 'ps'], capture_output=True, text=True)\n        return result.returncode == 0\n    except FileNotFoundError:\n        logger.error(\"Docker is not installed or not in PATH\")\n        return False\ndef check_containers_running():\n    \"\"\"Check if any AUB-RAG-BE containers are running\"\"\"",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "check_containers_running",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def check_containers_running():\n    \"\"\"Check if any AUB-RAG-BE containers are running\"\"\"\n    try:\n        result = subprocess.run(['docker', 'ps', '--filter', 'name=aub-rag-be', '-q'], \n                              capture_output=True, text=True)\n        return len(result.stdout.strip()) > 0\n    except:\n        return False\ndef stop_containers():\n    \"\"\"Stop running containers\"\"\"",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "stop_containers",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def stop_containers():\n    \"\"\"Stop running containers\"\"\"\n    try:\n        logger.info(\"Stopping existing containers...\")\n        result = subprocess.run(['docker', 'compose', 'down'], \n                              capture_output=True, text=True)\n        if result.returncode == 0:\n            logger.info(\"Containers stopped successfully\")\n            return True\n        else:",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "build_image_if_needed",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def build_image_if_needed():\n    \"\"\"Build Docker image if it doesn't exist\"\"\"\n    try:\n        # Check if image exists\n        result = subprocess.run(['docker', 'images', '-q', 'aub-rag-be-web'], \n                              capture_output=True, text=True)\n        if not result.stdout.strip():\n            logger.info(\"Building Docker image...\")\n            result = subprocess.run(['docker', 'compose', 'build', 'web'], \n                                  capture_output=True, text=True)",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "run_collection_creation",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def run_collection_creation():\n    \"\"\"Run the collection creation script in Docker\"\"\"\n    try:\n        current_dir = Path.cwd()\n        logger.info(\"Running collection creation script...\")\n        cmd = [\n            'docker', 'run', '--rm',\n            '-v', f\"{current_dir}/chroma_db:/app/chroma_db\",\n            '-v', f\"{current_dir}/sonu_resources:/app/sonu_resources\", \n            '-v', f\"{current_dir}/.env:/app/.env\",",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "restart_containers",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def restart_containers():\n    \"\"\"Restart the containers\"\"\"\n    try:\n        logger.info(\"Restarting containers...\")\n        result = subprocess.run(['docker', 'compose', 'up', '-d'], \n                              capture_output=True, text=True)\n        if result.returncode == 0:\n            logger.info(\"Containers restarted successfully\")\n            return True\n        else:",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "def main():\n    \"\"\"Main execution function\"\"\"\n    logger.info(\"🚀 Starting SONU QA V3 Collection Creation Process...\")\n    # Check Docker\n    if not check_docker_running():\n        logger.error(\"❌ Docker is not running. Please start Docker first.\")\n        sys.exit(1)\n    # Build image if needed\n    if not build_image_if_needed():\n        logger.error(\"❌ Failed to build Docker image\")",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "run_collection_creation",
+        "description": "run_collection_creation",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef check_docker_running():\n    \"\"\"Check if Docker is running\"\"\"\n    try:\n        result = subprocess.run(['docker', 'ps'], capture_output=True, text=True)\n        return result.returncode == 0\n    except FileNotFoundError:\n        logger.error(\"Docker is not installed or not in PATH\")\n        return False\ndef check_containers_running():",
+        "detail": "run_collection_creation",
+        "documentation": {}
+    },
+    {
+        "label": "SonuContentProcessor",
+        "kind": 6,
+        "importPath": "sonu_pdf_processor",
+        "description": "sonu_pdf_processor",
+        "peekOfCode": "class SonuContentProcessor:\n    \"\"\"Processes PDF files and markdown files and adds them to SONU vectorDB\"\"\"\n    def __init__(self):\n        \"\"\"Initialize the processor with configuration\"\"\"\n        # Configuration - standalone without Flask dependencies\n        self.project_root = Path(__file__).parent\n        self.sonu_resources_dir = self.project_root / \"sonu_resources\"\n        self.vectorstore_path = self.project_root / \"chroma_db\"\n        self.openai_api_key = os.getenv(\"OPENAI_API_KEY\")\n        self.sonu_collection = \"sonu_qa_v4\"  ",
+        "detail": "sonu_pdf_processor",
+        "documentation": {}
+    },
+    {
+        "label": "extract_source_url_from_markdown_section",
+        "kind": 2,
+        "importPath": "sonu_pdf_processor",
+        "description": "sonu_pdf_processor",
+        "peekOfCode": "def extract_source_url_from_markdown_section(content):\n    \"\"\"\n    Extract source URL from markdown section content.\n    Args:\n        content (str): The content of a markdown section\n    Returns:\n        str or None: The extracted URL or None if not found\n    \"\"\"\n    # Look for **Source URL:** pattern followed by a URL\n    url_pattern = r'\\*\\*Source URL:\\*\\*\\s*(https?://[^\\s\\n]+)'",
+        "detail": "sonu_pdf_processor",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "sonu_pdf_processor",
+        "description": "sonu_pdf_processor",
+        "peekOfCode": "def main():\n    \"\"\"Main execution function\"\"\"\n    try:\n        # Initialize processor\n        processor = SonuContentProcessor()\n        # Process all content files\n        processor.process_all_content()\n        # Verify results\n        processor.verify_vectorstore_content()\n        # Check processing results",
+        "detail": "sonu_pdf_processor",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "sonu_pdf_processor",
+        "description": "sonu_pdf_processor",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef extract_source_url_from_markdown_section(content):\n    \"\"\"\n    Extract source URL from markdown section content.\n    Args:\n        content (str): The content of a markdown section\n    Returns:\n        str or None: The extracted URL or None if not found\n    \"\"\"\n    # Look for **Source URL:** pattern followed by a URL",
+        "detail": "sonu_pdf_processor",
+        "documentation": {}
+    }
+]

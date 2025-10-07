@@ -1,0 +1,102 @@
+2025-09-17 16:43:02,397 - INFO - Configuration validated. extracted.md path: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources/extracted.md
+2025-09-17 16:43:02,398 - INFO - Vectorstore path: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-17 16:43:02,398 - INFO - Collection name: sonu_qa_v2
+2025-09-17 16:43:02,398 - INFO - Extracted.md Reprocessor initialized
+2025-09-17 16:43:07,861 - INFO - Starting extracted.md reprocessing...
+2025-09-17 16:43:07,980 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-17 16:43:08,110 - INFO - Found 23 existing documents from extracted.md
+2025-09-17 16:43:08,162 - INFO - Removed 23 existing documents from extracted.md
+2025-09-17 16:43:08,162 - INFO - Processing extracted.md file: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources/extracted.md
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucast-allergy-forecast
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/pages/pediatrics
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/first-ever-large-scale-study-linking-nasal-anatomy-to-allergy-symptoms-unveiled-at-leading-allergy-asthma-and-immunology-conference
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/stanford-study-reveals-ai-enhanced-smartphone-facial-scans-as-a-novel-approach-to-identifying-anatomical-contributors-to-sleep-disorders
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-launches-sonucheck-world-s-first-real-time-nasal-breathing-and-patency-assessment-using-vocal-biomarkers-in-sonu-app
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-unveils-sonucast-the-first-ever-real-time-personalized-allergy-forecast-based-on-facial-anatomy-and-air-quality
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/pages/about
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/blogs/team/meet-soundhealth-s-team
+2025-09-17 16:43:08,165 - INFO - Found source URL in section: https://soundhealth.life/pages/support
+2025-09-17 16:43:08,166 - WARNING - Chunk 0: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 15: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 16: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 17: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 18: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 19: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 20: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 21: No source_url found
+2025-09-17 16:43:08,166 - WARNING - Chunk 22: No source_url found
+2025-09-17 16:43:09,488 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 16:43:10,278 - INFO - Successfully added 23 chunks from extracted.md to sonu_qa_v2 collection
+2025-09-17 16:43:10,280 - INFO - Verification: Found 23 documents from extracted.md in collection
+2025-09-17 16:43:10,281 - INFO - Documents with source_url: 14/23
+2025-09-17 16:43:10,281 - INFO - Unique source URLs found: 14
+2025-09-17 16:43:10,281 - INFO - Source URLs found:
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/press/first-ever-large-scale-study-linking-nasal-anatomy-to-allergy-symptoms-unveiled-at-leading-allergy-asthma-and-immunology-conference
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/press/soundhealth-launches-sonucheck-world-s-first-real-time-nasal-breathing-and-patency-assessment-using-vocal-biomarkers-in-sonu-app
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/press/soundhealth-unveils-sonucast-the-first-ever-real-time-personalized-allergy-forecast-based-on-facial-anatomy-and-air-quality
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/press/stanford-study-reveals-ai-enhanced-smartphone-facial-scans-as-a-novel-approach-to-identifying-anatomical-contributors-to-sleep-disorders
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/science/sonucast-allergy-forecast
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/blogs/team/meet-soundhealth-s-team
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/pages/about
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/pages/pediatrics
+2025-09-17 16:43:10,281 - INFO -   - https://soundhealth.life/pages/support
+2025-09-17 16:43:11,849 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 16:43:11,858 - INFO - Sample retrieval test returned 3 results
+2025-09-17 16:43:11,858 - INFO - Sample document metadata:
+2025-09-17 16:43:11,858 - INFO -   Document 1: source=SONU_Quick-Start-Guide.pdf, source_url=No source_url
+2025-09-17 16:43:11,859 - INFO -   Document 2: source=extracted.md, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 16:43:11,859 - INFO - ============================================================
+2025-09-17 16:43:11,859 - INFO - EXTRACTED.MD REPROCESSING SUMMARY
+2025-09-17 16:43:11,859 - INFO - ============================================================
+2025-09-17 16:43:11,859 - INFO - Collection: sonu_qa_v2
+2025-09-17 16:43:11,859 - INFO - File processed: extracted.md
+2025-09-17 16:43:11,859 - INFO - Documents removed: 23
+2025-09-17 16:43:11,859 - INFO - Documents added: 23
+2025-09-17 16:43:11,859 - INFO - ============================================================
+2025-09-17 16:43:11,859 - INFO - ✅ Reprocessing completed successfully!
+2025-09-17 16:43:11,859 - INFO - 📊 23 chunks added to sonu_qa_v2 collection
+2025-09-17 16:49:40,320 - INFO - Configuration validated. extracted.md path: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources/extracted.md
+2025-09-17 16:49:40,320 - INFO - Vectorstore path: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-17 16:49:40,320 - INFO - Collection name: sonu_qa_v2
+2025-09-17 16:49:40,320 - INFO - Extracted.md Reprocessor initialized
+2025-09-17 16:49:40,320 - INFO - Starting extracted.md reprocessing...
+2025-09-17 16:49:40,681 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-17 16:49:40,739 - WARNING - Could not query existing documents (this may be due to schema issues): Error executing plan: Error sending backfill request to compactor: Error reading from metadata segment reader: error occurred while decoding column 0: mismatched types; Rust type `u64` (as SQL type `INTEGER`) is not compatible with SQL type `BLOB` 
+2025-09-17 16:49:40,739 - INFO - Proceeding with reprocessing - any duplicates will be handled by unique IDs
+2025-09-17 16:49:40,739 - INFO - Processing extracted.md file: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources/extracted.md
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucast-allergy-forecast
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/pages/pediatrics
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/first-ever-large-scale-study-linking-nasal-anatomy-to-allergy-symptoms-unveiled-at-leading-allergy-asthma-and-immunology-conference
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/stanford-study-reveals-ai-enhanced-smartphone-facial-scans-as-a-novel-approach-to-identifying-anatomical-contributors-to-sleep-disorders
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-launches-sonucheck-world-s-first-real-time-nasal-breathing-and-patency-assessment-using-vocal-biomarkers-in-sonu-app
+2025-09-17 16:49:40,741 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-17 16:49:40,742 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-unveils-sonucast-the-first-ever-real-time-personalized-allergy-forecast-based-on-facial-anatomy-and-air-quality
+2025-09-17 16:49:40,742 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-17 16:49:40,742 - INFO - Found source URL in section: https://soundhealth.life/pages/about
+2025-09-17 16:49:40,742 - INFO - Found source URL in section: https://soundhealth.life/blogs/team/meet-soundhealth-s-team
+2025-09-17 16:49:40,742 - INFO - Found source URL in section: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - WARNING - Chunk 0: Using default source_url: https://soundhealth.life
+2025-09-17 16:49:40,742 - INFO - Chunk 15: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 16: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 17: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 18: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 19: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 20: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 21: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:40,742 - INFO - Chunk 22: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 16:49:42,445 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 16:49:42,827 - ERROR - Error processing extracted.md: Error in compaction: Error reading from metadata segment reader: error occurred while decoding column 0: mismatched types; Rust type `u64` (as SQL type `INTEGER`) is not compatible with SQL type `BLOB` 
+2025-09-17 16:49:42,827 - ERROR - Fatal error: Error in compaction: Error reading from metadata segment reader: error occurred while decoding column 0: mismatched types; Rust type `u64` (as SQL type `INTEGER`) is not compatible with SQL type `BLOB` 

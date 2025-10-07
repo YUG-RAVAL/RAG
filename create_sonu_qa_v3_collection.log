@@ -1,0 +1,887 @@
+2025-09-17 17:31:58,603 - INFO - Configuration validated. SONU resources directory: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 17:31:58,603 - INFO - Vectorstore path: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-17 17:31:58,603 - INFO - Collection name: sonu_qa_v3
+2025-09-17 17:31:58,603 - INFO - SONU QA V3 Collection Creator initialized
+2025-09-17 17:31:58,603 - INFO - Starting SONU QA V3 collection creation...
+2025-09-17 17:31:58,880 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-17 17:31:58,942 - INFO - Created fresh collection: sonu_qa_v3
+2025-09-17 17:31:58,942 - INFO - Found 35 content files in /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 17:31:58,943 - INFO -   - 14 Markdown files
+2025-09-17 17:31:58,943 - INFO -   - 21 PDF files
+2025-09-17 17:31:58,943 - INFO -   - 1.md
+2025-09-17 17:31:58,943 - INFO -   - 10.md
+2025-09-17 17:31:58,943 - INFO -   - 11.md
+2025-09-17 17:31:58,943 - INFO -   - 12.md
+2025-09-17 17:31:58,943 - INFO -   - 13.md
+2025-09-17 17:31:58,943 - INFO -   - 14.md
+2025-09-17 17:31:58,943 - INFO -   - 2.md
+2025-09-17 17:31:58,943 - INFO -   - 3.md
+2025-09-17 17:31:58,943 - INFO -   - 4.md
+2025-09-17 17:31:58,943 - INFO -   - 5.md
+2025-09-17 17:31:58,943 - INFO -   - 6.md
+2025-09-17 17:31:58,943 - INFO -   - 7.md
+2025-09-17 17:31:58,943 - INFO -   - 8.md
+2025-09-17 17:31:58,943 - INFO -   - 9.md
+2025-09-17 17:31:58,943 - INFO -   - Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 17:31:58,943 - INFO -   - RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 17:31:58,943 - INFO -   - SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 17:31:58,943 - INFO -   - SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 17:31:58,943 - INFO -   - SONU_Patient_Brochure.pdf
+2025-09-17 17:31:58,943 - INFO -   - SONU_Product-Manual.pdf
+2025-09-17 17:31:58,943 - INFO -   - SONU_Quick-Start-Guide.pdf
+2025-09-17 17:31:58,943 - INFO -   - SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 17:31:58,943 - INFO -   - SoundHealth-Lobby-Brochure.pdf
+2025-09-17 17:31:58,943 - INFO -   - SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 17:31:58,943 - INFO -   - SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 17:31:58,943 - INFO -   - SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 17:31:58,943 - INFO -   - SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 17:31:58,944 - INFO -   - SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 17:31:58,944 - INFO -   - Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 17:31:58,944 - INFO - Processing .MD file: 1.md
+2025-09-17 17:31:58,944 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 17:31:59,855 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:31:59,903 - INFO - Successfully added 1 chunks from 1.md to sonu_qa_v3 collection
+2025-09-17 17:31:59,903 - INFO - ✅ 1.md: All 1 chunks have source_url
+2025-09-17 17:31:59,904 - INFO - Processing .MD file: 10.md
+2025-09-17 17:31:59,905 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-unveils-sonucast-the-first-ever-real-time-personalized-allergy-forecast-based-on-facial-anatomy-and-air-quality
+2025-09-17 17:32:00,944 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:00,985 - INFO - Successfully added 1 chunks from 10.md to sonu_qa_v3 collection
+2025-09-17 17:32:00,986 - INFO - ✅ 10.md: All 1 chunks have source_url
+2025-09-17 17:32:00,986 - INFO - Processing .MD file: 11.md
+2025-09-17 17:32:00,988 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-17 17:32:02,000 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:02,041 - INFO - Successfully added 1 chunks from 11.md to sonu_qa_v3 collection
+2025-09-17 17:32:02,041 - INFO - ✅ 11.md: All 1 chunks have source_url
+2025-09-17 17:32:02,041 - INFO - Processing .MD file: 12.md
+2025-09-17 17:32:02,042 - INFO - Found source URL in section: https://soundhealth.life/pages/about
+2025-09-17 17:32:02,700 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:02,737 - INFO - Successfully added 1 chunks from 12.md to sonu_qa_v3 collection
+2025-09-17 17:32:02,737 - INFO - ✅ 12.md: All 1 chunks have source_url
+2025-09-17 17:32:02,738 - INFO - Processing .MD file: 13.md
+2025-09-17 17:32:02,739 - INFO - Found source URL in section: https://soundhealth.life/blogs/team/meet-soundhealth-s-team
+2025-09-17 17:32:03,268 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:03,301 - INFO - Successfully added 1 chunks from 13.md to sonu_qa_v3 collection
+2025-09-17 17:32:03,301 - INFO - ✅ 13.md: All 1 chunks have source_url
+2025-09-17 17:32:03,302 - INFO - Processing .MD file: 14.md
+2025-09-17 17:32:03,304 - INFO - Found source URL in section: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,305 - INFO - Chunk 1: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,305 - INFO - Chunk 2: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,305 - INFO - Chunk 3: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,306 - INFO - Chunk 4: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,306 - INFO - Chunk 5: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,306 - INFO - Chunk 6: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,306 - INFO - Chunk 7: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:03,306 - INFO - Chunk 8: Using fallback source_url: https://soundhealth.life/pages/support
+2025-09-17 17:32:04,589 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:05,196 - INFO - Successfully added 9 chunks from 14.md to sonu_qa_v3 collection
+2025-09-17 17:32:05,197 - INFO - ✅ 14.md: All 9 chunks have source_url
+2025-09-17 17:32:05,197 - INFO - Processing .MD file: 2.md
+2025-09-17 17:32:05,198 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 17:32:05,684 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:05,721 - INFO - Successfully added 1 chunks from 2.md to sonu_qa_v3 collection
+2025-09-17 17:32:05,722 - INFO - ✅ 2.md: All 1 chunks have source_url
+2025-09-17 17:32:05,722 - INFO - Processing .MD file: 3.md
+2025-09-17 17:32:05,723 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucast-allergy-forecast
+2025-09-17 17:32:06,184 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:06,219 - INFO - Successfully added 1 chunks from 3.md to sonu_qa_v3 collection
+2025-09-17 17:32:06,220 - INFO - ✅ 3.md: All 1 chunks have source_url
+2025-09-17 17:32:06,220 - INFO - Processing .MD file: 4.md
+2025-09-17 17:32:06,222 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health
+2025-09-17 17:32:06,881 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:06,921 - INFO - Successfully added 1 chunks from 4.md to sonu_qa_v3 collection
+2025-09-17 17:32:06,922 - INFO - ✅ 4.md: All 1 chunks have source_url
+2025-09-17 17:32:06,922 - INFO - Processing .MD file: 5.md
+2025-09-17 17:32:06,923 - INFO - Found source URL in section: https://soundhealth.life/pages/pediatrics
+2025-09-17 17:32:07,726 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:07,760 - INFO - Successfully added 1 chunks from 5.md to sonu_qa_v3 collection
+2025-09-17 17:32:07,760 - INFO - ✅ 5.md: All 1 chunks have source_url
+2025-09-17 17:32:07,760 - INFO - Processing .MD file: 6.md
+2025-09-17 17:32:07,761 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/first-ever-large-scale-study-linking-nasal-anatomy-to-allergy-symptoms-unveiled-at-leading-allergy-asthma-and-immunology-conference
+2025-09-17 17:32:08,521 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:08,552 - INFO - Successfully added 1 chunks from 6.md to sonu_qa_v3 collection
+2025-09-17 17:32:08,552 - INFO - ✅ 6.md: All 1 chunks have source_url
+2025-09-17 17:32:08,552 - INFO - Processing .MD file: 7.md
+2025-09-17 17:32:08,553 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/stanford-study-reveals-ai-enhanced-smartphone-facial-scans-as-a-novel-approach-to-identifying-anatomical-contributors-to-sleep-disorders
+2025-09-17 17:32:09,056 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:09,087 - INFO - Successfully added 1 chunks from 7.md to sonu_qa_v3 collection
+2025-09-17 17:32:09,088 - INFO - ✅ 7.md: All 1 chunks have source_url
+2025-09-17 17:32:09,088 - INFO - Processing .MD file: 8.md
+2025-09-17 17:32:09,089 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-launches-sonucheck-world-s-first-real-time-nasal-breathing-and-patency-assessment-using-vocal-biomarkers-in-sonu-app
+2025-09-17 17:32:09,546 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:09,580 - INFO - Successfully added 1 chunks from 8.md to sonu_qa_v3 collection
+2025-09-17 17:32:09,580 - INFO - ✅ 8.md: All 1 chunks have source_url
+2025-09-17 17:32:09,580 - INFO - Processing .MD file: 9.md
+2025-09-17 17:32:09,581 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-17 17:32:10,009 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:10,050 - INFO - Successfully added 1 chunks from 9.md to sonu_qa_v3 collection
+2025-09-17 17:32:10,051 - INFO - ✅ 9.md: All 1 chunks have source_url
+2025-09-17 17:32:10,051 - INFO - Processing .PDF file: Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 17:32:11,183 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:11,489 - INFO - Successfully added 5 chunks from Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:11,489 - INFO - ✅ Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf: All 5 chunks have source_url
+2025-09-17 17:32:11,489 - INFO - Processing .PDF file: RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 17:32:12,028 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:12,062 - INFO - Successfully added 1 chunks from RTM-Sonu-Procedure_Guide_2025.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:12,063 - INFO - ✅ RTM-Sonu-Procedure_Guide_2025.pdf: All 1 chunks have source_url
+2025-09-17 17:32:12,063 - INFO - Processing .PDF file: SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 17:32:12,836 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:12,876 - INFO - Successfully added 2 chunks from SONU-Physicians-MOA-AIrway-Brochure.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:12,876 - INFO - ✅ SONU-Physicians-MOA-AIrway-Brochure.pdf: All 2 chunks have source_url
+2025-09-17 17:32:12,877 - INFO - Processing .PDF file: SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 17:32:12,882 - WARNING - No chunks created from SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 17:32:12,883 - INFO - Processing .PDF file: SONU_Patient_Brochure.pdf
+2025-09-17 17:32:12,888 - WARNING - No chunks created from SONU_Patient_Brochure.pdf
+2025-09-17 17:32:12,889 - INFO - Processing .PDF file: SONU_Product-Manual.pdf
+2025-09-17 17:32:13,646 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:14,275 - INFO - Successfully added 18 chunks from SONU_Product-Manual.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:14,276 - INFO - ✅ SONU_Product-Manual.pdf: All 18 chunks have source_url
+2025-09-17 17:32:14,276 - INFO - Processing .PDF file: SONU_Quick-Start-Guide.pdf
+2025-09-17 17:32:14,868 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:15,339 - INFO - Successfully added 12 chunks from SONU_Quick-Start-Guide.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:15,340 - INFO - ✅ SONU_Quick-Start-Guide.pdf: All 12 chunks have source_url
+2025-09-17 17:32:15,340 - INFO - Processing .PDF file: SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 17:32:15,791 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:15,825 - INFO - Successfully added 1 chunks from SoundHealth-Airway-Lobby-Brochure.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:15,825 - INFO - ✅ SoundHealth-Airway-Lobby-Brochure.pdf: All 1 chunks have source_url
+2025-09-17 17:32:15,826 - INFO - Processing .PDF file: SoundHealth-Lobby-Brochure.pdf
+2025-09-17 17:32:15,830 - WARNING - No chunks created from SoundHealth-Lobby-Brochure.pdf
+2025-09-17 17:32:15,830 - INFO - Processing .PDF file: SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 17:32:16,731 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:16,786 - INFO - Successfully added 2 chunks from SoundHealth-Nasal_Breathing_Module.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:16,786 - INFO - ✅ SoundHealth-Nasal_Breathing_Module.pdf: All 2 chunks have source_url
+2025-09-17 17:32:16,787 - INFO - Processing .PDF file: SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 17:32:17,949 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:18,001 - INFO - Successfully added 1 chunks from SoundHealth-Pediatric-Lobby-Brochure.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:18,002 - INFO - ✅ SoundHealth-Pediatric-Lobby-Brochure.pdf: All 1 chunks have source_url
+2025-09-17 17:32:18,002 - INFO - Processing .PDF file: SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 17:32:18,869 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:18,905 - INFO - Successfully added 1 chunks from SoundHealth_ESRS-Poster-abbreviated.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:18,906 - INFO - ✅ SoundHealth_ESRS-Poster-abbreviated.pdf: All 1 chunks have source_url
+2025-09-17 17:32:18,906 - INFO - Processing .PDF file: SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 17:32:19,686 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:19,735 - INFO - Successfully added 1 chunks from SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:19,736 - INFO - ✅ SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf: All 1 chunks have source_url
+2025-09-17 17:32:19,736 - INFO - Processing .PDF file: SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 17:32:20,398 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:20,440 - INFO - Successfully added 1 chunks from SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:20,441 - INFO - ✅ SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf: All 1 chunks have source_url
+2025-09-17 17:32:20,441 - INFO - Processing .PDF file: SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 17:32:20,898 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:20,938 - INFO - Successfully added 1 chunks from SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:20,938 - INFO - ✅ SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf: All 1 chunks have source_url
+2025-09-17 17:32:20,939 - INFO - Processing .PDF file: SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 17:32:21,437 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:21,478 - INFO - Successfully added 1 chunks from SoundHealth_Quick_Start_Guide.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:21,478 - INFO - ✅ SoundHealth_Quick_Start_Guide.pdf: All 1 chunks have source_url
+2025-09-17 17:32:21,479 - INFO - Processing .PDF file: SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 17:32:21,932 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:22,272 - INFO - Successfully added 2 chunks from SoundHealth_RTM-ENT_Patient_Brochure.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:22,272 - INFO - ✅ SoundHealth_RTM-ENT_Patient_Brochure.pdf: All 2 chunks have source_url
+2025-09-17 17:32:22,272 - INFO - Processing .PDF file: SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 17:32:23,128 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:23,701 - INFO - Successfully added 9 chunks from SoundHealth_Research_IFAR-Acoustic-Resonance.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:23,702 - INFO - ✅ SoundHealth_Research_IFAR-Acoustic-Resonance.pdf: All 9 chunks have source_url
+2025-09-17 17:32:23,702 - INFO - Processing .PDF file: SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 17:32:24,301 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:24,664 - INFO - Successfully added 4 chunks from SoundHealth_Research_IFAR-Resonant-Vibration.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:24,664 - INFO - ✅ SoundHealth_Research_IFAR-Resonant-Vibration.pdf: All 4 chunks have source_url
+2025-09-17 17:32:24,665 - INFO - Processing .PDF file: SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 17:32:25,678 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:26,074 - INFO - Successfully added 6 chunks from SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:26,074 - INFO - ✅ SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf: All 6 chunks have source_url
+2025-09-17 17:32:26,075 - INFO - Processing .PDF file: Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 17:32:26,635 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:26,929 - INFO - Successfully added 2 chunks from Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf to sonu_qa_v3 collection
+2025-09-17 17:32:26,929 - INFO - ✅ Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf: All 2 chunks have source_url
+2025-09-17 17:32:26,930 - INFO - 🔍 Verifying new collection...
+2025-09-17 17:32:26,945 - INFO - Collection contains 92 total documents
+2025-09-17 17:32:27,338 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:27,343 - INFO - ✅ Sample retrieval test returned 5 results
+2025-09-17 17:32:27,343 - INFO - 📋 Sample document metadata verification:
+2025-09-17 17:32:27,343 - INFO -   ✅ Document 1: source=SONU_Quick-Start-Guide.pdf, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 17:32:27,343 - INFO -   ✅ Document 2: source=1.md, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 17:32:27,343 - INFO -   ✅ Document 3: source=SONU_Product-Manual.pdf, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 17:32:27,344 - INFO -   ✅ Document 4: source=SONU_Product-Manual.pdf, source_url=https://soundhealth.life/pages/sonu-therapy
+2025-09-17 17:32:27,344 - INFO -   ✅ Document 5: source=SONU-Physicians-MOA-AIrway-Brochure.pdf, source_url=https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 17:32:27,344 - INFO - 🎉 VERIFICATION SUCCESS: ALL retrieved documents have source_url!
+2025-09-17 17:32:27,344 - INFO - 
+🔍 Testing acoustic resonance search...
+2025-09-17 17:32:27,863 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 17:32:27,873 - INFO - Retrieved 3 results
+2025-09-17 17:32:27,874 - INFO -   ✅ Acoustic Result 1: source_url=https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 17:32:27,874 - INFO -   ✅ Acoustic Result 2: source_url=https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-17 17:32:27,874 - INFO -   ✅ Acoustic Result 3: source_url=https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 17:32:27,875 - INFO - 🎉 Acoustic search: ALL results have source_url!
+2025-09-17 17:32:27,875 - INFO - ======================================================================
+2025-09-17 17:32:27,875 - INFO - SONU QA V3 COLLECTION CREATION SUMMARY
+2025-09-17 17:32:27,875 - INFO - ======================================================================
+2025-09-17 17:32:27,876 - INFO - Collection name: sonu_qa_v3
+2025-09-17 17:32:27,876 - INFO - Total files processed: 32
+2025-09-17 17:32:27,876 - INFO - Failed files: 3
+2025-09-17 17:32:27,876 - INFO - Total chunks added to vectorstore: 92
+2025-09-17 17:32:27,876 - INFO - 
+✅ Successfully processed files:
+2025-09-17 17:32:27,876 - INFO -   • 1.md (1 chunks)
+2025-09-17 17:32:27,877 - INFO -   • 10.md (1 chunks)
+2025-09-17 17:32:27,877 - INFO -   • 11.md (1 chunks)
+2025-09-17 17:32:27,877 - INFO -   • 12.md (1 chunks)
+2025-09-17 17:32:27,877 - INFO -   • 13.md (1 chunks)
+2025-09-17 17:32:27,877 - INFO -   • 14.md (9 chunks)
+2025-09-17 17:32:27,877 - INFO -   • 2.md (1 chunks)
+2025-09-17 17:32:27,878 - INFO -   • 3.md (1 chunks)
+2025-09-17 17:32:27,878 - INFO -   • 4.md (1 chunks)
+2025-09-17 17:32:27,878 - INFO -   • 5.md (1 chunks)
+2025-09-17 17:32:27,878 - INFO -   • 6.md (1 chunks)
+2025-09-17 17:32:27,878 - INFO -   • 7.md (1 chunks)
+2025-09-17 17:32:27,878 - INFO -   • 8.md (1 chunks)
+2025-09-17 17:32:27,879 - INFO -   • 9.md (1 chunks)
+2025-09-17 17:32:27,879 - INFO -   • Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf (5 chunks)
+2025-09-17 17:32:27,879 - INFO -   • RTM-Sonu-Procedure_Guide_2025.pdf (1 chunks)
+2025-09-17 17:32:27,879 - INFO -   • SONU-Physicians-MOA-AIrway-Brochure.pdf (2 chunks)
+2025-09-17 17:32:27,879 - INFO -   • SONU_Product-Manual.pdf (18 chunks)
+2025-09-17 17:32:27,879 - INFO -   • SONU_Quick-Start-Guide.pdf (12 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth-Airway-Lobby-Brochure.pdf (1 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth-Nasal_Breathing_Module.pdf (2 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth-Pediatric-Lobby-Brochure.pdf (1 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth_ESRS-Poster-abbreviated.pdf (1 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf (1 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf (1 chunks)
+2025-09-17 17:32:27,880 - INFO -   • SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf (1 chunks)
+2025-09-17 17:32:27,881 - INFO -   • SoundHealth_Quick_Start_Guide.pdf (1 chunks)
+2025-09-17 17:32:27,881 - INFO -   • SoundHealth_RTM-ENT_Patient_Brochure.pdf (2 chunks)
+2025-09-17 17:32:27,881 - INFO -   • SoundHealth_Research_IFAR-Acoustic-Resonance.pdf (9 chunks)
+2025-09-17 17:32:27,881 - INFO -   • SoundHealth_Research_IFAR-Resonant-Vibration.pdf (4 chunks)
+2025-09-17 17:32:27,881 - INFO -   • SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf (6 chunks)
+2025-09-17 17:32:27,882 - INFO -   • Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf (2 chunks)
+2025-09-17 17:32:27,882 - INFO - 
+❌ Failed files:
+2025-09-17 17:32:27,882 - INFO -   • SONU-Physicians-MOA-Brochure.pdf: No chunks created
+2025-09-17 17:32:27,882 - INFO -   • SONU_Patient_Brochure.pdf: No chunks created
+2025-09-17 17:32:27,882 - INFO -   • SoundHealth-Lobby-Brochure.pdf: No chunks created
+2025-09-17 17:32:27,882 - INFO - ======================================================================
+2025-09-17 17:32:27,882 - INFO - 
+💡 To use this collection, update your config to use: sonu_qa_v3
+2025-09-17 17:32:27,883 - INFO - 🔗 GUARANTEED: Every chunk has a source_url for proper retrieval
+2025-09-17 17:32:27,884 - INFO - Found 35 content files in /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 17:32:27,884 - INFO -   - 14 Markdown files
+2025-09-17 17:32:27,884 - INFO -   - 21 PDF files
+2025-09-17 17:32:27,885 - INFO -   - 1.md
+2025-09-17 17:32:27,885 - INFO -   - 10.md
+2025-09-17 17:32:27,885 - INFO -   - 11.md
+2025-09-17 17:32:27,885 - INFO -   - 12.md
+2025-09-17 17:32:27,885 - INFO -   - 13.md
+2025-09-17 17:32:27,885 - INFO -   - 14.md
+2025-09-17 17:32:27,886 - INFO -   - 2.md
+2025-09-17 17:32:27,886 - INFO -   - 3.md
+2025-09-17 17:32:27,886 - INFO -   - 4.md
+2025-09-17 17:32:27,886 - INFO -   - 5.md
+2025-09-17 17:32:27,886 - INFO -   - 6.md
+2025-09-17 17:32:27,886 - INFO -   - 7.md
+2025-09-17 17:32:27,887 - INFO -   - 8.md
+2025-09-17 17:32:27,887 - INFO -   - 9.md
+2025-09-17 17:32:27,887 - INFO -   - Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 17:32:27,887 - INFO -   - RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 17:32:27,887 - INFO -   - SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 17:32:27,887 - INFO -   - SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 17:32:27,887 - INFO -   - SONU_Patient_Brochure.pdf
+2025-09-17 17:32:27,888 - INFO -   - SONU_Product-Manual.pdf
+2025-09-17 17:32:27,888 - INFO -   - SONU_Quick-Start-Guide.pdf
+2025-09-17 17:32:27,888 - INFO -   - SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 17:32:27,888 - INFO -   - SoundHealth-Lobby-Brochure.pdf
+2025-09-17 17:32:27,888 - INFO -   - SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 17:32:27,888 - INFO -   - SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 17:32:27,888 - INFO -   - SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 17:32:27,889 - INFO -   - SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 17:32:27,890 - INFO -   - Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 17:32:27,890 - INFO - ✅ Collection creation completed successfully!
+2025-09-17 17:32:27,890 - INFO - 📊 32/35 files processed successfully.
+2025-09-17 17:32:27,890 - INFO - 📈 Total chunks added: 92
+2025-09-17 17:32:27,890 - INFO - 🔗 Source URL guarantee: FULFILLED for all chunks
+2025-09-17 17:32:27,890 - WARNING - ⚠️  3 files failed to process
+2025-09-17 17:56:30,334 - INFO - Configuration validated. SONU resources directory: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 17:56:30,335 - INFO - Vectorstore path: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-17 17:56:30,335 - INFO - Collection name: sonu_qa_v3
+2025-09-17 17:56:30,335 - INFO - Checking and preparing environment for fresh collection creation...
+2025-09-17 17:56:30,335 - INFO - Existing vectorstore directory found: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-17 17:56:30,335 - INFO - Found existing collections: ['82b1f3d1-f7e7-4fab-b04c-8408a41383d6', 'b71bee2d-d8f4-4a6f-8acc-d4b22dcd7642']
+2025-09-17 17:56:30,335 - WARNING - Found potentially problematic database files: ['chroma.sqlite3', 'chroma.sqlite3']
+2025-09-17 17:56:30,335 - WARNING - These will be removed to prevent schema conflicts
+2025-09-17 17:56:30,335 - INFO - Environment check complete - ready for fresh collection creation
+2025-09-17 17:56:30,335 - INFO - SONU QA V3 Collection Creator initialized
+2025-09-17 18:21:54,610 - INFO - 🐳 Starting Docker-safe SONU QA collection creation...
+2025-09-17 18:21:54,610 - INFO - Configuration validated. SONU resources directory: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 18:21:54,610 - INFO - Vectorstore path: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-17 18:21:54,610 - INFO - 🐳 Docker-Safe SONU Collection Creator initialized
+2025-09-17 18:21:54,610 - INFO - Collection name: sonu_qa_v3_20250917_182154
+2025-09-17 18:21:54,610 - INFO - 🚀 Starting Docker-safe SONU collection creation...
+2025-09-17 18:21:54,610 - INFO - 🔄 Creating new collection: sonu_qa_v3_20250917_182154
+2025-09-17 18:21:54,889 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-17 18:21:54,980 - INFO - ✅ Created new collection: sonu_qa_v3_20250917_182154
+2025-09-17 18:21:54,981 - INFO - Found 35 content files in /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 18:21:54,982 - INFO -   - 14 Markdown files
+2025-09-17 18:21:54,982 - INFO -   - 21 PDF files
+2025-09-17 18:21:54,982 - INFO -   - 1.md
+2025-09-17 18:21:54,982 - INFO -   - 10.md
+2025-09-17 18:21:54,982 - INFO -   - 11.md
+2025-09-17 18:21:54,982 - INFO -   - 12.md
+2025-09-17 18:21:54,982 - INFO -   - 13.md
+2025-09-17 18:21:54,982 - INFO -   - 14.md
+2025-09-17 18:21:54,982 - INFO -   - 2.md
+2025-09-17 18:21:54,982 - INFO -   - 3.md
+2025-09-17 18:21:54,982 - INFO -   - 4.md
+2025-09-17 18:21:54,982 - INFO -   - 5.md
+2025-09-17 18:21:54,982 - INFO -   - 6.md
+2025-09-17 18:21:54,982 - INFO -   - 7.md
+2025-09-17 18:21:54,982 - INFO -   - 8.md
+2025-09-17 18:21:54,982 - INFO -   - 9.md
+2025-09-17 18:21:54,982 - INFO -   - Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 18:21:54,983 - INFO -   - RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 18:21:54,983 - INFO -   - SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SONU_Patient_Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SONU_Product-Manual.pdf
+2025-09-17 18:21:54,983 - INFO -   - SONU_Quick-Start-Guide.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth-Lobby-Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 18:21:54,983 - INFO -   - SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 18:21:54,983 - INFO -   - Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 18:21:54,983 - INFO - Processing .MD file: 1.md
+2025-09-17 18:21:54,984 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 18:21:55,874 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:55,910 - INFO - Successfully added 1 chunks from 1.md
+2025-09-17 18:21:55,910 - INFO - ✅ 1.md: All 1 chunks have source_url
+2025-09-17 18:21:55,911 - INFO - Processing .MD file: 10.md
+2025-09-17 18:21:55,912 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-unveils-sonucast-the-first-ever-real-time-personalized-allergy-forecast-based-on-facial-anatomy-and-air-quality
+2025-09-17 18:21:56,457 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:56,475 - INFO - Successfully added 1 chunks from 10.md
+2025-09-17 18:21:56,475 - INFO - ✅ 10.md: All 1 chunks have source_url
+2025-09-17 18:21:56,475 - INFO - Processing .MD file: 11.md
+2025-09-17 18:21:56,476 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-17 18:21:56,971 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:56,994 - INFO - Successfully added 1 chunks from 11.md
+2025-09-17 18:21:56,994 - INFO - ✅ 11.md: All 1 chunks have source_url
+2025-09-17 18:21:56,994 - INFO - Processing .MD file: 12.md
+2025-09-17 18:21:56,995 - INFO - Found source URL in section: https://soundhealth.life/pages/about
+2025-09-17 18:21:57,558 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:57,587 - INFO - Successfully added 1 chunks from 12.md
+2025-09-17 18:21:57,587 - INFO - ✅ 12.md: All 1 chunks have source_url
+2025-09-17 18:21:57,587 - INFO - Processing .MD file: 13.md
+2025-09-17 18:21:57,588 - INFO - Found source URL in section: https://soundhealth.life/blogs/team/meet-soundhealth-s-team
+2025-09-17 18:21:57,995 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:58,018 - INFO - Successfully added 1 chunks from 13.md
+2025-09-17 18:21:58,019 - INFO - ✅ 13.md: All 1 chunks have source_url
+2025-09-17 18:21:58,019 - INFO - Processing .MD file: 14.md
+2025-09-17 18:21:58,020 - INFO - Found source URL in section: https://soundhealth.life/pages/support
+2025-09-17 18:21:58,543 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:58,884 - INFO - Successfully added 9 chunks from 14.md
+2025-09-17 18:21:58,884 - INFO - ✅ 14.md: All 9 chunks have source_url
+2025-09-17 18:21:58,885 - INFO - Processing .MD file: 2.md
+2025-09-17 18:21:58,885 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 18:21:59,680 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:21:59,715 - INFO - Successfully added 1 chunks from 2.md
+2025-09-17 18:21:59,715 - INFO - ✅ 2.md: All 1 chunks have source_url
+2025-09-17 18:21:59,715 - INFO - Processing .MD file: 3.md
+2025-09-17 18:21:59,717 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucast-allergy-forecast
+2025-09-17 18:22:00,376 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:00,413 - INFO - Successfully added 1 chunks from 3.md
+2025-09-17 18:22:00,413 - INFO - ✅ 3.md: All 1 chunks have source_url
+2025-09-17 18:22:00,413 - INFO - Processing .MD file: 4.md
+2025-09-17 18:22:00,414 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health
+2025-09-17 18:22:00,913 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:00,953 - INFO - Successfully added 1 chunks from 4.md
+2025-09-17 18:22:00,953 - INFO - ✅ 4.md: All 1 chunks have source_url
+2025-09-17 18:22:00,953 - INFO - Processing .MD file: 5.md
+2025-09-17 18:22:00,954 - INFO - Found source URL in section: https://soundhealth.life/pages/pediatrics
+2025-09-17 18:22:01,573 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:01,613 - INFO - Successfully added 1 chunks from 5.md
+2025-09-17 18:22:01,613 - INFO - ✅ 5.md: All 1 chunks have source_url
+2025-09-17 18:22:01,613 - INFO - Processing .MD file: 6.md
+2025-09-17 18:22:01,614 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/first-ever-large-scale-study-linking-nasal-anatomy-to-allergy-symptoms-unveiled-at-leading-allergy-asthma-and-immunology-conference
+2025-09-17 18:22:02,511 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:02,542 - INFO - Successfully added 1 chunks from 6.md
+2025-09-17 18:22:02,543 - INFO - ✅ 6.md: All 1 chunks have source_url
+2025-09-17 18:22:02,543 - INFO - Processing .MD file: 7.md
+2025-09-17 18:22:02,544 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/stanford-study-reveals-ai-enhanced-smartphone-facial-scans-as-a-novel-approach-to-identifying-anatomical-contributors-to-sleep-disorders
+2025-09-17 18:22:03,024 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:03,042 - INFO - Successfully added 1 chunks from 7.md
+2025-09-17 18:22:03,042 - INFO - ✅ 7.md: All 1 chunks have source_url
+2025-09-17 18:22:03,042 - INFO - Processing .MD file: 8.md
+2025-09-17 18:22:03,043 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-launches-sonucheck-world-s-first-real-time-nasal-breathing-and-patency-assessment-using-vocal-biomarkers-in-sonu-app
+2025-09-17 18:22:03,614 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:03,637 - INFO - Successfully added 1 chunks from 8.md
+2025-09-17 18:22:03,638 - INFO - ✅ 8.md: All 1 chunks have source_url
+2025-09-17 18:22:03,638 - INFO - Processing .MD file: 9.md
+2025-09-17 18:22:03,638 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-17 18:22:04,482 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:04,502 - INFO - Successfully added 1 chunks from 9.md
+2025-09-17 18:22:04,502 - INFO - ✅ 9.md: All 1 chunks have source_url
+2025-09-17 18:22:04,502 - INFO - Processing .PDF file: Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 18:22:05,296 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:05,850 - INFO - Successfully added 5 chunks from Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 18:22:05,851 - INFO - ✅ Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf: All 5 chunks have source_url
+2025-09-17 18:22:05,851 - INFO - Processing .PDF file: RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 18:22:06,426 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:06,444 - INFO - Successfully added 1 chunks from RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 18:22:06,445 - INFO - ✅ RTM-Sonu-Procedure_Guide_2025.pdf: All 1 chunks have source_url
+2025-09-17 18:22:06,445 - INFO - Processing .PDF file: SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 18:22:07,535 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:07,560 - INFO - Successfully added 2 chunks from SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 18:22:07,561 - INFO - ✅ SONU-Physicians-MOA-AIrway-Brochure.pdf: All 2 chunks have source_url
+2025-09-17 18:22:07,561 - INFO - Processing .PDF file: SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 18:22:07,564 - WARNING - No chunks created from SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 18:22:07,565 - INFO - Processing .PDF file: SONU_Patient_Brochure.pdf
+2025-09-17 18:22:07,566 - WARNING - No chunks created from SONU_Patient_Brochure.pdf
+2025-09-17 18:22:07,566 - INFO - Processing .PDF file: SONU_Product-Manual.pdf
+2025-09-17 18:22:08,108 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:09,002 - INFO - Successfully added 18 chunks from SONU_Product-Manual.pdf
+2025-09-17 18:22:09,002 - INFO - ✅ SONU_Product-Manual.pdf: All 18 chunks have source_url
+2025-09-17 18:22:09,002 - INFO - Processing .PDF file: SONU_Quick-Start-Guide.pdf
+2025-09-17 18:22:09,465 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:10,351 - INFO - Successfully added 12 chunks from SONU_Quick-Start-Guide.pdf
+2025-09-17 18:22:10,352 - INFO - ✅ SONU_Quick-Start-Guide.pdf: All 12 chunks have source_url
+2025-09-17 18:22:10,352 - INFO - Processing .PDF file: SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 18:22:10,799 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:10,833 - INFO - Successfully added 1 chunks from SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 18:22:10,833 - INFO - ✅ SoundHealth-Airway-Lobby-Brochure.pdf: All 1 chunks have source_url
+2025-09-17 18:22:10,833 - INFO - Processing .PDF file: SoundHealth-Lobby-Brochure.pdf
+2025-09-17 18:22:10,836 - WARNING - No chunks created from SoundHealth-Lobby-Brochure.pdf
+2025-09-17 18:22:10,836 - INFO - Processing .PDF file: SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 18:22:11,537 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:11,572 - INFO - Successfully added 2 chunks from SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 18:22:11,572 - INFO - ✅ SoundHealth-Nasal_Breathing_Module.pdf: All 2 chunks have source_url
+2025-09-17 18:22:11,573 - INFO - Processing .PDF file: SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 18:22:12,050 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:12,084 - INFO - Successfully added 1 chunks from SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 18:22:12,084 - INFO - ✅ SoundHealth-Pediatric-Lobby-Brochure.pdf: All 1 chunks have source_url
+2025-09-17 18:22:12,084 - INFO - Processing .PDF file: SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 18:22:12,769 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:12,804 - INFO - Successfully added 1 chunks from SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 18:22:12,805 - INFO - ✅ SoundHealth_ESRS-Poster-abbreviated.pdf: All 1 chunks have source_url
+2025-09-17 18:22:12,805 - INFO - Processing .PDF file: SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 18:22:13,606 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:13,642 - INFO - Successfully added 1 chunks from SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 18:22:13,642 - INFO - ✅ SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf: All 1 chunks have source_url
+2025-09-17 18:22:13,642 - INFO - Processing .PDF file: SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 18:22:14,025 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:14,063 - INFO - Successfully added 1 chunks from SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 18:22:14,064 - INFO - ✅ SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf: All 1 chunks have source_url
+2025-09-17 18:22:14,064 - INFO - Processing .PDF file: SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 18:22:14,515 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:14,545 - INFO - Successfully added 1 chunks from SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 18:22:14,545 - INFO - ✅ SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf: All 1 chunks have source_url
+2025-09-17 18:22:14,545 - INFO - Processing .PDF file: SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 18:22:15,133 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:15,165 - INFO - Successfully added 1 chunks from SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 18:22:15,165 - INFO - ✅ SoundHealth_Quick_Start_Guide.pdf: All 1 chunks have source_url
+2025-09-17 18:22:15,165 - INFO - Processing .PDF file: SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 18:22:15,595 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:15,956 - INFO - Successfully added 2 chunks from SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 18:22:15,956 - INFO - ✅ SoundHealth_RTM-ENT_Patient_Brochure.pdf: All 2 chunks have source_url
+2025-09-17 18:22:15,956 - INFO - Processing .PDF file: SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 18:22:16,719 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:17,351 - INFO - Successfully added 9 chunks from SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 18:22:17,351 - INFO - ✅ SoundHealth_Research_IFAR-Acoustic-Resonance.pdf: All 9 chunks have source_url
+2025-09-17 18:22:17,351 - INFO - Processing .PDF file: SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 18:22:20,223 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:20,562 - INFO - Successfully added 4 chunks from SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 18:22:20,562 - INFO - ✅ SoundHealth_Research_IFAR-Resonant-Vibration.pdf: All 4 chunks have source_url
+2025-09-17 18:22:20,562 - INFO - Processing .PDF file: SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 18:22:21,574 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:21,878 - INFO - Successfully added 6 chunks from SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 18:22:21,879 - INFO - ✅ SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf: All 6 chunks have source_url
+2025-09-17 18:22:21,879 - INFO - Processing .PDF file: Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 18:22:22,704 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:22,753 - INFO - Successfully added 2 chunks from Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 18:22:22,753 - INFO - ✅ Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf: All 2 chunks have source_url
+2025-09-17 18:22:22,753 - INFO - 🔍 Verifying new collection...
+2025-09-17 18:22:22,763 - INFO - Collection contains 92 total documents
+2025-09-17 18:22:23,289 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-17 18:22:23,302 - INFO - ✅ Sample retrieval test returned 5 results
+2025-09-17 18:22:23,302 - INFO - 📋 Sample document metadata verification:
+2025-09-17 18:22:23,302 - INFO -   ✅ Document 1: source=SONU_Quick-Start-Guide.pdf, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 18:22:23,303 - INFO -   ✅ Document 2: source=1.md, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 18:22:23,303 - INFO -   ✅ Document 3: source=SONU_Product-Manual.pdf, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-17 18:22:23,303 - INFO -   ✅ Document 4: source=SONU_Product-Manual.pdf, source_url=https://soundhealth.life/pages/sonu-therapy
+2025-09-17 18:22:23,303 - INFO -   ✅ Document 5: source=SONU-Physicians-MOA-AIrway-Brochure.pdf, source_url=https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-17 18:22:23,303 - INFO - 🎉 VERIFICATION SUCCESS: ALL retrieved documents have source_url!
+2025-09-17 18:22:23,304 - INFO - ======================================================================
+2025-09-17 18:22:23,304 - INFO - DOCKER-SAFE SONU COLLECTION CREATION SUMMARY
+2025-09-17 18:22:23,304 - INFO - ======================================================================
+2025-09-17 18:22:23,304 - INFO - Collection name: sonu_qa_v3_20250917_182154
+2025-09-17 18:22:23,304 - INFO - Total files processed: 32
+2025-09-17 18:22:23,304 - INFO - Failed files: 3
+2025-09-17 18:22:23,305 - INFO - Total chunks added to vectorstore: 92
+2025-09-17 18:22:23,305 - INFO - 
+✅ Successfully processed files:
+2025-09-17 18:22:23,305 - INFO -   • 1.md (1 chunks)
+2025-09-17 18:22:23,305 - INFO -   • 10.md (1 chunks)
+2025-09-17 18:22:23,305 - INFO -   • 11.md (1 chunks)
+2025-09-17 18:22:23,305 - INFO -   • 12.md (1 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 13.md (1 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 14.md (9 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 2.md (1 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 3.md (1 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 4.md (1 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 5.md (1 chunks)
+2025-09-17 18:22:23,306 - INFO -   • 6.md (1 chunks)
+2025-09-17 18:22:23,307 - INFO -   • 7.md (1 chunks)
+2025-09-17 18:22:23,307 - INFO -   • 8.md (1 chunks)
+2025-09-17 18:22:23,307 - INFO -   • 9.md (1 chunks)
+2025-09-17 18:22:23,307 - INFO -   • Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf (5 chunks)
+2025-09-17 18:22:23,307 - INFO -   • RTM-Sonu-Procedure_Guide_2025.pdf (1 chunks)
+2025-09-17 18:22:23,307 - INFO -   • SONU-Physicians-MOA-AIrway-Brochure.pdf (2 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SONU_Product-Manual.pdf (18 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SONU_Quick-Start-Guide.pdf (12 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth-Airway-Lobby-Brochure.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth-Nasal_Breathing_Module.pdf (2 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth-Pediatric-Lobby-Brochure.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_ESRS-Poster-abbreviated.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_Quick_Start_Guide.pdf (1 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_RTM-ENT_Patient_Brochure.pdf (2 chunks)
+2025-09-17 18:22:23,308 - INFO -   • SoundHealth_Research_IFAR-Acoustic-Resonance.pdf (9 chunks)
+2025-09-17 18:22:23,309 - INFO -   • SoundHealth_Research_IFAR-Resonant-Vibration.pdf (4 chunks)
+2025-09-17 18:22:23,309 - INFO -   • SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf (6 chunks)
+2025-09-17 18:22:23,309 - INFO -   • Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf (2 chunks)
+2025-09-17 18:22:23,309 - INFO - 
+❌ Failed files:
+2025-09-17 18:22:23,309 - INFO -   • SONU-Physicians-MOA-Brochure.pdf: No chunks created
+2025-09-17 18:22:23,309 - INFO -   • SONU_Patient_Brochure.pdf: No chunks created
+2025-09-17 18:22:23,309 - INFO -   • SoundHealth-Lobby-Brochure.pdf: No chunks created
+2025-09-17 18:22:23,309 - INFO - ======================================================================
+2025-09-17 18:22:23,309 - INFO - 
+💡 To use this collection, update your config to use: sonu_qa_v3_20250917_182154
+2025-09-17 18:22:23,309 - INFO - 🔗 GUARANTEED: Every chunk has a source_url for proper retrieval
+2025-09-17 18:22:23,310 - INFO - Found 35 content files in /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-17 18:22:23,311 - INFO -   - 14 Markdown files
+2025-09-17 18:22:23,311 - INFO -   - 21 PDF files
+2025-09-17 18:22:23,311 - INFO -   - 1.md
+2025-09-17 18:22:23,311 - INFO -   - 10.md
+2025-09-17 18:22:23,311 - INFO -   - 11.md
+2025-09-17 18:22:23,311 - INFO -   - 12.md
+2025-09-17 18:22:23,311 - INFO -   - 13.md
+2025-09-17 18:22:23,311 - INFO -   - 14.md
+2025-09-17 18:22:23,311 - INFO -   - 2.md
+2025-09-17 18:22:23,311 - INFO -   - 3.md
+2025-09-17 18:22:23,311 - INFO -   - 4.md
+2025-09-17 18:22:23,312 - INFO -   - 5.md
+2025-09-17 18:22:23,312 - INFO -   - 6.md
+2025-09-17 18:22:23,312 - INFO -   - 7.md
+2025-09-17 18:22:23,312 - INFO -   - 8.md
+2025-09-17 18:22:23,312 - INFO -   - 9.md
+2025-09-17 18:22:23,312 - INFO -   - Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-17 18:22:23,312 - INFO -   - RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-17 18:22:23,312 - INFO -   - SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-17 18:22:23,312 - INFO -   - SONU-Physicians-MOA-Brochure.pdf
+2025-09-17 18:22:23,312 - INFO -   - SONU_Patient_Brochure.pdf
+2025-09-17 18:22:23,312 - INFO -   - SONU_Product-Manual.pdf
+2025-09-17 18:22:23,312 - INFO -   - SONU_Quick-Start-Guide.pdf
+2025-09-17 18:22:23,312 - INFO -   - SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth-Lobby-Brochure.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_Quick_Start_Guide.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-17 18:22:23,313 - INFO -   - SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-17 18:22:23,313 - INFO -   - Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-17 18:22:23,313 - INFO - ✅ Collection creation completed successfully!
+2025-09-17 18:22:23,313 - INFO - 📊 32/35 files processed successfully.
+2025-09-17 18:22:23,314 - INFO - 📈 Total chunks added: 92
+2025-09-17 18:22:23,314 - INFO - 🔗 Source URL guarantee: FULFILLED for all chunks
+2025-09-17 18:22:23,314 - INFO - 📝 Collection name for config: sonu_qa_v3_20250917_182154
+2025-09-17 18:22:23,314 - WARNING - ⚠️  3 files failed to process
+2025-09-18 14:26:28,892 - INFO - 🐳 Starting Docker-safe SONU QA collection creation...
+2025-09-18 14:26:28,892 - INFO - Configuration validated. SONU resources directory: /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-18 14:26:28,892 - INFO - Vectorstore path: /home/aubergine/Desktop/AUB-RAG-BE/chroma_db
+2025-09-18 14:26:28,892 - INFO - 🐳 Docker-Safe SONU Collection Creator initialized
+2025-09-18 14:26:28,892 - INFO - Collection name: sonu_qa_v4
+2025-09-18 14:26:28,892 - INFO - 🚀 Starting Docker-safe SONU collection creation...
+2025-09-18 14:26:28,892 - INFO - 🔄 Creating new collection: sonu_qa_v4
+2025-09-18 14:26:28,997 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-18 14:26:29,139 - INFO - ✅ Created new collection: sonu_qa_v4
+2025-09-18 14:26:29,141 - INFO - Found 35 content files in /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-18 14:26:29,141 - INFO -   - 14 Markdown files
+2025-09-18 14:26:29,141 - INFO -   - 21 PDF files
+2025-09-18 14:26:29,141 - INFO -   - 1.md
+2025-09-18 14:26:29,141 - INFO -   - 10.md
+2025-09-18 14:26:29,141 - INFO -   - 11.md
+2025-09-18 14:26:29,141 - INFO -   - 12.md
+2025-09-18 14:26:29,141 - INFO -   - 13.md
+2025-09-18 14:26:29,141 - INFO -   - 14.md
+2025-09-18 14:26:29,142 - INFO -   - 2.md
+2025-09-18 14:26:29,142 - INFO -   - 3.md
+2025-09-18 14:26:29,142 - INFO -   - 4.md
+2025-09-18 14:26:29,142 - INFO -   - 5.md
+2025-09-18 14:26:29,142 - INFO -   - 6.md
+2025-09-18 14:26:29,142 - INFO -   - 7.md
+2025-09-18 14:26:29,142 - INFO -   - 8.md
+2025-09-18 14:26:29,142 - INFO -   - 9.md
+2025-09-18 14:26:29,142 - INFO -   - Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-18 14:26:29,142 - INFO -   - RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-18 14:26:29,142 - INFO -   - SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-18 14:26:29,142 - INFO -   - SONU-Physicians-MOA-Brochure.pdf
+2025-09-18 14:26:29,142 - INFO -   - SONU_Patient_Brochure.pdf
+2025-09-18 14:26:29,142 - INFO -   - SONU_Product-Manual.pdf
+2025-09-18 14:26:29,143 - INFO -   - SONU_Quick-Start-Guide.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth-Lobby-Brochure.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_Quick_Start_Guide.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-18 14:26:29,143 - INFO -   - SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-18 14:26:29,143 - INFO -   - Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-18 14:26:29,144 - INFO - Processing .MD file: 1.md
+2025-09-18 14:26:29,144 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonu-band
+2025-09-18 14:26:29,807 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:29,839 - INFO - Successfully added 1 chunks from 1.md
+2025-09-18 14:26:29,839 - INFO - ✅ 1.md: All 1 chunks have source_url
+2025-09-18 14:26:29,839 - INFO - Processing .MD file: 10.md
+2025-09-18 14:26:29,839 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-unveils-sonucast-the-first-ever-real-time-personalized-allergy-forecast-based-on-facial-anatomy-and-air-quality
+2025-09-18 14:26:30,471 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:30,490 - INFO - Successfully added 1 chunks from 10.md
+2025-09-18 14:26:30,490 - INFO - ✅ 10.md: All 1 chunks have source_url
+2025-09-18 14:26:30,491 - INFO - Processing .MD file: 11.md
+2025-09-18 14:26:30,492 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-18 14:26:31,124 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:31,142 - INFO - Successfully added 1 chunks from 11.md
+2025-09-18 14:26:31,142 - INFO - ✅ 11.md: All 1 chunks have source_url
+2025-09-18 14:26:31,142 - INFO - Processing .MD file: 12.md
+2025-09-18 14:26:31,143 - INFO - Found source URL in section: https://soundhealth.life/pages/about
+2025-09-18 14:26:31,570 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:31,587 - INFO - Successfully added 1 chunks from 12.md
+2025-09-18 14:26:31,587 - INFO - ✅ 12.md: All 1 chunks have source_url
+2025-09-18 14:26:31,587 - INFO - Processing .MD file: 13.md
+2025-09-18 14:26:31,588 - INFO - Found source URL in section: https://soundhealth.life/blogs/team/meet-soundhealth-s-team
+2025-09-18 14:26:32,041 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:32,059 - INFO - Successfully added 1 chunks from 13.md
+2025-09-18 14:26:32,059 - INFO - ✅ 13.md: All 1 chunks have source_url
+2025-09-18 14:26:32,059 - INFO - Processing .MD file: 14.md
+2025-09-18 14:26:32,060 - INFO - Found source URL in section: https://soundhealth.life/pages/support
+2025-09-18 14:26:32,803 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:33,256 - INFO - Successfully added 9 chunks from 14.md
+2025-09-18 14:26:33,256 - INFO - ✅ 14.md: All 9 chunks have source_url
+2025-09-18 14:26:33,256 - INFO - Processing .MD file: 2.md
+2025-09-18 14:26:33,256 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/the-science-behind-acoustic-resonance-therapy
+2025-09-18 14:26:33,888 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:33,910 - INFO - Successfully added 1 chunks from 2.md
+2025-09-18 14:26:33,911 - INFO - ✅ 2.md: All 1 chunks have source_url
+2025-09-18 14:26:33,911 - INFO - Processing .MD file: 3.md
+2025-09-18 14:26:33,912 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucast-allergy-forecast
+2025-09-18 14:26:34,490 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:34,515 - INFO - Successfully added 1 chunks from 3.md
+2025-09-18 14:26:34,515 - INFO - ✅ 3.md: All 1 chunks have source_url
+2025-09-18 14:26:34,516 - INFO - Processing .MD file: 4.md
+2025-09-18 14:26:34,516 - INFO - Found source URL in section: https://soundhealth.life/blogs/science/sonucheck-your-voice-your-health
+2025-09-18 14:26:34,993 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:35,011 - INFO - Successfully added 1 chunks from 4.md
+2025-09-18 14:26:35,011 - INFO - ✅ 4.md: All 1 chunks have source_url
+2025-09-18 14:26:35,012 - INFO - Processing .MD file: 5.md
+2025-09-18 14:26:35,013 - INFO - Found source URL in section: https://soundhealth.life/pages/pediatrics
+2025-09-18 14:26:35,520 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:35,536 - INFO - Successfully added 1 chunks from 5.md
+2025-09-18 14:26:35,536 - INFO - ✅ 5.md: All 1 chunks have source_url
+2025-09-18 14:26:35,537 - INFO - Processing .MD file: 6.md
+2025-09-18 14:26:35,537 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/first-ever-large-scale-study-linking-nasal-anatomy-to-allergy-symptoms-unveiled-at-leading-allergy-asthma-and-immunology-conference
+2025-09-18 14:26:36,334 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:36,370 - INFO - Successfully added 1 chunks from 6.md
+2025-09-18 14:26:36,370 - INFO - ✅ 6.md: All 1 chunks have source_url
+2025-09-18 14:26:36,371 - INFO - Processing .MD file: 7.md
+2025-09-18 14:26:36,371 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/stanford-study-reveals-ai-enhanced-smartphone-facial-scans-as-a-novel-approach-to-identifying-anatomical-contributors-to-sleep-disorders
+2025-09-18 14:26:36,846 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:36,862 - INFO - Successfully added 1 chunks from 7.md
+2025-09-18 14:26:36,862 - INFO - ✅ 7.md: All 1 chunks have source_url
+2025-09-18 14:26:36,863 - INFO - Processing .MD file: 8.md
+2025-09-18 14:26:36,863 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/soundhealth-launches-sonucheck-world-s-first-real-time-nasal-breathing-and-patency-assessment-using-vocal-biomarkers-in-sonu-app
+2025-09-18 14:26:37,325 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:37,342 - INFO - Successfully added 1 chunks from 8.md
+2025-09-18 14:26:37,342 - INFO - ✅ 8.md: All 1 chunks have source_url
+2025-09-18 14:26:37,343 - INFO - Processing .MD file: 9.md
+2025-09-18 14:26:37,343 - INFO - Found source URL in section: https://soundhealth.life/blogs/press/acoustic-resonance-therapy-offers-promising-treatment-for-chronic-insomnia
+2025-09-18 14:26:37,939 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:37,964 - INFO - Successfully added 1 chunks from 9.md
+2025-09-18 14:26:37,965 - INFO - ✅ 9.md: All 1 chunks have source_url
+2025-09-18 14:26:37,966 - INFO - Processing .PDF file: Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-18 14:26:37,975 - ERROR - Error processing Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,976 - INFO - Processing .PDF file: RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-18 14:26:37,977 - ERROR - Error processing RTM-Sonu-Procedure_Guide_2025.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,978 - INFO - Processing .PDF file: SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-18 14:26:37,979 - ERROR - Error processing SONU-Physicians-MOA-AIrway-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,980 - INFO - Processing .PDF file: SONU-Physicians-MOA-Brochure.pdf
+2025-09-18 14:26:37,981 - ERROR - Error processing SONU-Physicians-MOA-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,981 - INFO - Processing .PDF file: SONU_Patient_Brochure.pdf
+2025-09-18 14:26:37,982 - ERROR - Error processing SONU_Patient_Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,982 - INFO - Processing .PDF file: SONU_Product-Manual.pdf
+2025-09-18 14:26:37,983 - ERROR - Error processing SONU_Product-Manual.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,984 - INFO - Processing .PDF file: SONU_Quick-Start-Guide.pdf
+2025-09-18 14:26:37,985 - ERROR - Error processing SONU_Quick-Start-Guide.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,985 - INFO - Processing .PDF file: SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-18 14:26:37,986 - ERROR - Error processing SoundHealth-Airway-Lobby-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,986 - INFO - Processing .PDF file: SoundHealth-Lobby-Brochure.pdf
+2025-09-18 14:26:37,987 - ERROR - Error processing SoundHealth-Lobby-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,988 - INFO - Processing .PDF file: SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-18 14:26:37,989 - ERROR - Error processing SoundHealth-Nasal_Breathing_Module.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,989 - INFO - Processing .PDF file: SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-18 14:26:37,990 - ERROR - Error processing SoundHealth-Pediatric-Lobby-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,990 - INFO - Processing .PDF file: SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-18 14:26:37,991 - ERROR - Error processing SoundHealth_ESRS-Poster-abbreviated.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,992 - INFO - Processing .PDF file: SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-18 14:26:37,993 - ERROR - Error processing SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,993 - INFO - Processing .PDF file: SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-18 14:26:37,994 - ERROR - Error processing SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,994 - INFO - Processing .PDF file: SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-18 14:26:37,995 - ERROR - Error processing SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,995 - INFO - Processing .PDF file: SoundHealth_Quick_Start_Guide.pdf
+2025-09-18 14:26:37,996 - ERROR - Error processing SoundHealth_Quick_Start_Guide.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,997 - INFO - Processing .PDF file: SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-18 14:26:37,998 - ERROR - Error processing SoundHealth_RTM-ENT_Patient_Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:37,998 - INFO - Processing .PDF file: SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-18 14:26:37,999 - ERROR - Error processing SoundHealth_Research_IFAR-Acoustic-Resonance.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,000 - INFO - Processing .PDF file: SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-18 14:26:38,001 - ERROR - Error processing SoundHealth_Research_IFAR-Resonant-Vibration.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,001 - INFO - Processing .PDF file: SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-18 14:26:38,002 - ERROR - Error processing SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,002 - INFO - Processing .PDF file: Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-18 14:26:38,003 - ERROR - Error processing Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,003 - INFO - 🔍 Verifying new collection...
+2025-09-18 14:26:38,009 - INFO - Collection contains 22 total documents
+2025-09-18 14:26:38,436 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-09-18 14:26:38,445 - INFO - ✅ Sample retrieval test returned 5 results
+2025-09-18 14:26:38,445 - INFO - 📋 Sample document metadata verification:
+2025-09-18 14:26:38,445 - INFO -   ✅ Document 1: source=1.md, source_url=https://soundhealth.life/blogs/science/sonu-band
+2025-09-18 14:26:38,445 - INFO -   ✅ Document 2: source=14.md, source_url=https://soundhealth.life/pages/support
+2025-09-18 14:26:38,445 - INFO -   ✅ Document 3: source=14.md, source_url=https://soundhealth.life/pages/support
+2025-09-18 14:26:38,445 - INFO -   ✅ Document 4: source=14.md, source_url=https://soundhealth.life/pages/support
+2025-09-18 14:26:38,445 - INFO -   ✅ Document 5: source=11.md, source_url=https://soundhealth.life/blogs/press/soundhealth-receives-7-million-seed-round-funding-and-launches-sonu-the-world-s-first-fda-authorized-ai-enabled-wearable-device-for-treating-nasal-congestion-due-to-allergic-and-non-allergic-rhinitis
+2025-09-18 14:26:38,445 - INFO - 🎉 VERIFICATION SUCCESS: ALL retrieved documents have source_url!
+2025-09-18 14:26:38,445 - INFO - ======================================================================
+2025-09-18 14:26:38,446 - INFO - DOCKER-SAFE SONU COLLECTION CREATION SUMMARY
+2025-09-18 14:26:38,446 - INFO - ======================================================================
+2025-09-18 14:26:38,446 - INFO - Collection name: sonu_qa_v4
+2025-09-18 14:26:38,446 - INFO - Total files processed: 14
+2025-09-18 14:26:38,446 - INFO - Failed files: 21
+2025-09-18 14:26:38,446 - INFO - Total chunks added to vectorstore: 22
+2025-09-18 14:26:38,446 - INFO - 
+✅ Successfully processed files:
+2025-09-18 14:26:38,446 - INFO -   • 1.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 10.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 11.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 12.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 13.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 14.md (9 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 2.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 3.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 4.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 5.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 6.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 7.md (1 chunks)
+2025-09-18 14:26:38,446 - INFO -   • 8.md (1 chunks)
+2025-09-18 14:26:38,447 - INFO -   • 9.md (1 chunks)
+2025-09-18 14:26:38,447 - INFO - 
+❌ Failed files:
+2025-09-18 14:26:38,447 - INFO -   • Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • RTM-Sonu-Procedure_Guide_2025.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SONU-Physicians-MOA-AIrway-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SONU-Physicians-MOA-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SONU_Patient_Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SONU_Product-Manual.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SONU_Quick-Start-Guide.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth-Airway-Lobby-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth-Lobby-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth-Nasal_Breathing_Module.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth-Pediatric-Lobby-Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_ESRS-Poster-abbreviated.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_Quick_Start_Guide.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_RTM-ENT_Patient_Brochure.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_Research_IFAR-Acoustic-Resonance.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,447 - INFO -   • SoundHealth_Research_IFAR-Resonant-Vibration.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,448 - INFO -   • SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,448 - INFO -   • Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf: pymupdf package not found, please install it with `pip install pymupdf`
+2025-09-18 14:26:38,448 - INFO - ======================================================================
+2025-09-18 14:26:38,448 - INFO - 
+💡 To use this collection, update your config to use: sonu_qa_v4
+2025-09-18 14:26:38,448 - INFO - 🔗 GUARANTEED: Every chunk has a source_url for proper retrieval
+2025-09-18 14:26:38,448 - INFO - Found 35 content files in /home/aubergine/Desktop/AUB-RAG-BE/sonu_resources
+2025-09-18 14:26:38,448 - INFO -   - 14 Markdown files
+2025-09-18 14:26:38,448 - INFO -   - 21 PDF files
+2025-09-18 14:26:38,448 - INFO -   - 1.md
+2025-09-18 14:26:38,449 - INFO -   - 10.md
+2025-09-18 14:26:38,449 - INFO -   - 11.md
+2025-09-18 14:26:38,449 - INFO -   - 12.md
+2025-09-18 14:26:38,449 - INFO -   - 13.md
+2025-09-18 14:26:38,449 - INFO -   - 14.md
+2025-09-18 14:26:38,449 - INFO -   - 2.md
+2025-09-18 14:26:38,449 - INFO -   - 3.md
+2025-09-18 14:26:38,449 - INFO -   - 4.md
+2025-09-18 14:26:38,449 - INFO -   - 5.md
+2025-09-18 14:26:38,449 - INFO -   - 6.md
+2025-09-18 14:26:38,449 - INFO -   - 7.md
+2025-09-18 14:26:38,449 - INFO -   - 8.md
+2025-09-18 14:26:38,449 - INFO -   - 9.md
+2025-09-18 14:26:38,449 - INFO -   - Estimating_Maxillary_Sinus_Volume_Using_Smartphone_Camera.pdf
+2025-09-18 14:26:38,449 - INFO -   - RTM-Sonu-Procedure_Guide_2025.pdf
+2025-09-18 14:26:38,449 - INFO -   - SONU-Physicians-MOA-AIrway-Brochure.pdf
+2025-09-18 14:26:38,449 - INFO -   - SONU-Physicians-MOA-Brochure.pdf
+2025-09-18 14:26:38,449 - INFO -   - SONU_Patient_Brochure.pdf
+2025-09-18 14:26:38,449 - INFO -   - SONU_Product-Manual.pdf
+2025-09-18 14:26:38,449 - INFO -   - SONU_Quick-Start-Guide.pdf
+2025-09-18 14:26:38,449 - INFO -   - SoundHealth-Airway-Lobby-Brochure.pdf
+2025-09-18 14:26:38,449 - INFO -   - SoundHealth-Lobby-Brochure.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth-Nasal_Breathing_Module.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth-Pediatric-Lobby-Brochure.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_ESRS-Poster-abbreviated.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_Effect_of_ART_on_CPAP_Adherence.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_FSA_HSA_Step_by_Step_Guide.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_Letter-of-Medical-Necessity_fillable-copy.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_Quick_Start_Guide.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_RTM-ENT_Patient_Brochure.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_Research_IFAR-Acoustic-Resonance.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_Research_IFAR-Resonant-Vibration.pdf
+2025-09-18 14:26:38,450 - INFO -   - SoundHealth_Use-of-Customized-Binaural_Beats-for-the-Treatment-of-Chronic-Insomnia.pdf
+2025-09-18 14:26:38,450 - INFO -   - Western_Allergy_2025_Ray_Poster_supplemental_material_011425.pdf
+2025-09-18 14:26:38,450 - INFO - ✅ Collection creation completed successfully!
+2025-09-18 14:26:38,450 - INFO - 📊 14/35 files processed successfully.
+2025-09-18 14:26:38,450 - INFO - 📈 Total chunks added: 22
+2025-09-18 14:26:38,450 - INFO - 🔗 Source URL guarantee: FULFILLED for all chunks
+2025-09-18 14:26:38,450 - INFO - 📝 Collection name for config: sonu_qa_v4
+2025-09-18 14:26:38,450 - WARNING - ⚠️  21 files failed to process
